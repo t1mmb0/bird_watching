@@ -2,7 +2,7 @@ import sqlite3
 
 from pathlib import Path
 
-_BASE_DIR = Path(__file__).parent
+_BASE_DIR = Path(__file__).parent.parent
 _SCHEMA_DIR = _BASE_DIR / "schemas"
 
 # --- LOAD SCHEMA ---
