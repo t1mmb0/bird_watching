@@ -1,460 +1,458 @@
-Taxon_rank,Order,Family,Family_English_name,Scientific_name,English_name_AviList,German_name,Status,Rl-status
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Oxyura leucocephala,White-headed Duck,Weißkopf-Ruderente,Ausnahmeerscheinung, 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Oxyura jamaicensis,Ruddy Duck,Schwarzkopf-Ruderente,seltener Jahresvogel, 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Cygnus olor,Mute Swan,Höckerschwan,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Cygnus cygnus,Whooper Swan,Singschwan,"seltener Brutvogel; Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Branta bernicla,Brant Goose,Ringelgans,"Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Branta ruficollis,Red-breasted Goose,Rothalsgans,"seltener Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Branta canadensis,Canada Goose,Kanadagans,"eingeführter Brut-, Jahresvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Branta leucopsis,Barnacle Goose,Weißwangengans,"Brut-, Jahresvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anser indicus,Bar-headed Goose,Streifengans,"eingeführter, seltener Jahres-, Zugvogel", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anser anser,Greylag Goose,Graugans,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anser erythropus,Lesser White-fronted Goose,Zwerggans,seltener Zugvogel und Wintergast, 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anser albifrons,Greater White-fronted Goose,Blässgans,"Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anser serrirostris,Tundra Bean Goose,Tundrasaatgans,"Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anser brachyrhynchus,Pink-footed Goose,Kurzschnabelgans,"Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anser fabalis,Taiga Bean Goose,Waldsaatgans,"Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Aix galericulata,Mandarin Duck,Mandarinente,"eingeführter Brut-, Jahresvogel", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Alopochen aegyptiaca,Egyptian Goose,Nilgans,"eingeführter Brut-, Jahresvogel", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Tadorna tadorna,Common Shelduck,Brandgans,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Tadorna ferruginea,Ruddy Shelduck,Rostgans,"eingeführter Brut-, Jahresvogel, seltener Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Clangula hyemalis,Long-tailed Duck,Eisente,"Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Polysticta stelleri,Steller's Eider,Scheckente,Ausnahmeerscheinung, 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Somateria spectabilis,King Eider,Prachteiderente,Ausnahmeerscheinung, 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Somateria mollissima,Common Eider,Eiderente,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Histrionicus histrionicus,Harlequin Duck,Kragenente,besondere Ausnahmeerscheinung, 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Melanitta nigra,Common Scoter,Trauerente,"Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Melanitta perspicillata,Surf Scoter,Brillenente,besondere Ausnahmeerscheinung, 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Melanitta fusca,Velvet Scoter,Samtente,"Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Melanitta stejnegeri,Stejneger's Scoter,Kamtschatkasamtente,besondere Ausnahmeerscheinung, 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Bucephala islandica,Barrow's Goldeneye,Spatelente,besondere Ausnahmeerscheinung, 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Bucephala clangula,Common Goldeneye,Schellente,"Brut-, Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Mergus serrator,Red-breasted Merganser,Mittelsäger,"Brut-, Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Mergus merganser,Common Merganser,Gänsesäger,"Brut-, Zugvogel, Wintergast",3
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Marmaronetta angustirostris,Marbled Duck,Marmelente,besondere Ausnahmeerscheinung, 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Netta rufina,Red-crested Pochard,Kolbenente,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Aythya nyroca,Ferruginous Duck,Moorente,"seltener, lokaler Brut-, Zugvogel, Wintergast",1
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Aythya ferina,Common Pochard,Tafelente,"Brut-, Jahres-, Zugvogel, Wintergast",V
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Aythya collaris,Ring-necked Duck,Ringschnabelente,Ausnahmeerscheinung, 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Aythya fuligula,Tufted Duck,Reiherente,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Aythya affinis,Lesser Scaup,Kanadabergente,besondere Ausnahmeerscheinung, 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Aythya marila,Greater Scaup,Bergente,"lokaler Brutvogel; Jahres-, Zugvogel, Wintergast",R
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Spatula querquedula,Garganey,Knäkente,"Brut-, Zugvogel",1
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Spatula discors,Blue-winged Teal,Blauflügelente,Ausnahmeerscheinung, 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Spatula clypeata,Northern Shoveler,Löffelente,"Brut-, Jahres-, Zugvogel, Wintergast",3
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Mareca strepera,Gadwall,Schnatterente,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Mareca penelope,Eurasian Wigeon,Pfeifente,"seltener Brutvogel; Jahres-, Zugvogel, Wintergast",R
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Mareca americana,American Wigeon,Kanadapfeifente,Ausnahmeerscheinung, 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anas platyrhynchos,Mallard,Stockente,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anas acuta,Northern Pintail,Spießente,"seltener Brutvogel; Jahres-, Zugvogel, Wintergast",2
-species,Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anas crecca,Green-winged Teal,Krickente,"Brut-, Jahres-, Zugvogel, Wintergast",3
-species,Galliformes,Phasianidae,"Partridges, Pheasants, Grouse, and Allies",Tetrastes bonasia,Hazel Grouse,Haselhuhn,"Brut-, Jahresvogel",2
-species,Galliformes,Phasianidae,"Partridges, Pheasants, Grouse, and Allies",Lagopus muta,Rock Ptarmigan,Alpenschneehuhn,"Brut-, Jahresvogel",R
-species,Galliformes,Phasianidae,"Partridges, Pheasants, Grouse, and Allies",Tetrao urogallus,Western Capercaillie,Auerhuhn,"Brut-, Jahresvogel",1
-species,Galliformes,Phasianidae,"Partridges, Pheasants, Grouse, and Allies",Lyrurus tetrix,Black Grouse,Birkhuhn,"Brut-, Jahresvogel",2
-species,Galliformes,Phasianidae,"Partridges, Pheasants, Grouse, and Allies",Perdix perdix,Grey Partridge,Rebhuhn,"Brut-, Jahresvogel",2
-species,Galliformes,Phasianidae,"Partridges, Pheasants, Grouse, and Allies",Phasianus colchicus,Common Pheasant,Jagdfasan,"eingeführter Brut-, Jahresvogel", 
-species,Galliformes,Phasianidae,"Partridges, Pheasants, Grouse, and Allies",Alectoris graeca,Rock Partridge,Steinhuhn,"seltener, lokaler Brut-, Jahresvogel",R
-species,Phoenicopteriformes,Phoenicopteridae,Flamingos,Phoenicopterus roseus,Greater Flamingo,Rosaflamingo,"eingeführter, seltener, lokaler Brut-, Zugvogel", 
-species,Podicipediformes,Podicipedidae,Grebes,Tachybaptus ruficollis,Little Grebe,Zwergtaucher,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Podicipediformes,Podicipedidae,Grebes,Podilymbus podiceps,Pied-billed Grebe,Bindentaucher,besondere Ausnahmeerscheinung, 
-species,Podicipediformes,Podicipedidae,Grebes,Podiceps grisegena,Red-necked Grebe,Rothalstaucher,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Podicipediformes,Podicipedidae,Grebes,Podiceps cristatus,Great Crested Grebe,Haubentaucher,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Podicipediformes,Podicipedidae,Grebes,Podiceps nigricollis,Black-necked Grebe,Schwarzhalstaucher,"Brut-, Zugvogel, Wintergast",3
-species,Otidiformes,Otididae,Bustards,Otis tarda,Great Bustard,Großtrappe,"seltener, lokaler Brut-, Jahresvogel",1
-species,Otidiformes,Otididae,Bustards,Chlamydotis macqueenii,Asian Houbara,Steppenkragentrappe,besondere Ausnahmeerscheinung,"
-"
-species,Otidiformes,Otididae,Bustards,Tetrax tetrax,Little Bustard,Zwergtrappe,Ausnahmeerscheinung,0
-species,Cuculiformes,Cuculidae,Cuckoos,Clamator glandarius,Great Spotted Cuckoo,Häherkuckuck,Ausnahmeerscheinung, 
-species,Cuculiformes,Cuculidae,Cuckoos,Coccyzus erythropthalmus,Black-billed Cuckoo,Schwarzschnabelkuckuck,besondere Ausnahmeerscheinung, 
-species,Cuculiformes,Cuculidae,Cuckoos,Cuculus canorus,Common Cuckoo,Kuckuck,"Brut-, Zugvogel",3
-species,Pterocliformes,Pteroclidae,Sandgrouse,Syrrhaptes paradoxus,Pallas's Sandgrouse,Steppenflughuhn,besondere Ausnahmeerscheinung, 
-species,Pterocliformes,Pteroclidae,Sandgrouse,Pterocles orientalis,Black-bellied Sandgrouse,Sandflughuhn, , 
-species,Columbiformes,Columbidae,Doves and Pigeons,Zenaida macroura,Mourning Dove,Carolinataube,besondere Ausnahmeerscheinung, 
-species,Columbiformes,Columbidae,Doves and Pigeons,Streptopelia orientalis,Oriental Turtle Dove,Orientturteltaube,besondere Ausnahmeerscheinung, 
-species,Columbiformes,Columbidae,Doves and Pigeons,Streptopelia turtur,European Turtle Dove,Turteltaube,"Brut-, Zugvogel",2
-species,Columbiformes,Columbidae,Doves and Pigeons,Streptopelia decaocto,Eurasian Collared Dove,Türkentaube,"Brut-, Jahresvogel", 
-species,Columbiformes,Columbidae,Doves and Pigeons,Columba palumbus,Common Wood Pigeon,Ringeltaube,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Columbiformes,Columbidae,Doves and Pigeons,Columba oenas,Stock Dove,Hohltaube,"Brut-, Zugvogel", 
-species,Gruiformes,Gruidae,Cranes,Grus virgo,Demoiselle Crane,Jungfernkranich,Ausnahmeerscheinung, 
-species,Gruiformes,Gruidae,Cranes,Grus grus,Common Crane,Kranich,"Brut-, Zugvogel, Wintergast", 
-species,Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Rallus aquaticus,Water Rail,Wasserralle,"Brut-, Jahres-, Zugvogel, Wintergast",V
-species,Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Crex crex,Corn Crake,Wachtelkönig,"Brut-, Zugvogel",1
-species,Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Porzana porzana,Spotted Crake,Tüpfelsumpfhuhn,"Brut-, Zugvogel",3
-species,Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Gallinula chloropus,Common Moorhen,Teichhuhn,"Brut-, Jahres-, Zugvogel, Wintergast",V
-species,Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Fulica atra,Eurasian Coot,Blässhuhn,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Porphyrio alleni,Allen's Gallinule,Bronzesultanshuhn,besondere Ausnahmeerscheinung, 
-species,Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Porphyrio porphyrio,Purple Swamphen,Purpurhuhn,besondere Ausnahmeerscheinung, 
-species,Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Zapornia pusilla,Baillon's Crake,Zwergsumpfhuhn,seltener Brutvogel; Ausnahmeerscheinung,R
-species,Charadriiformes,Recurvirostridae,Stilts and Avocets,Recurvirostra avosetta,Pied Avocet,Säbelschnäbler,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Charadriiformes,Haematopodidae,Oystercatchers,Haematopus ostralegus,Eurasian Oystercatcher,Austernfischer,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Charadriiformes,Charadriidae,Plovers and Lapwings,Pluvialis squatarola,Grey Plover,Kiebitzregenpfeifer,Zugvogel, 
-species,Charadriiformes,Charadriidae,Plovers and Lapwings,Pluvialis apricaria,European Golden Plover,Goldregenpfeifer,"seltener, lokaler Brutvogel; Zugvogel",1
-species,Charadriiformes,Charadriidae,Plovers and Lapwings,Pluvialis dominica,American Golden Plover,Prärie-Goldregenpfeifer,besondere Ausnahmeerscheinung, 
-species,Charadriiformes,Charadriidae,Plovers and Lapwings,Pluvialis fulva,Pacific Golden Plover,Tundra-Goldregenpfeifer,Ausnahmeerscheinung, 
-species,Charadriiformes,Charadriidae,Plovers and Lapwings,Charadrius hiaticula,Common Ringed Plover,Sandregenpfeifer,"Brut-, Zugvogel",1
-species,Charadriiformes,Charadriidae,Plovers and Lapwings,Vanellus indicus,Red-wattled Lapwing,Rotlappenkiebitz,besondere Ausnahmeerscheinung, 
-species,Charadriiformes,Charadriidae,Plovers and Lapwings,Vanellus gregarius,Sociable Lapwing,Steppenkiebitz,Ausnahmeerscheinung, 
-species,Charadriiformes,Charadriidae,Plovers and Lapwings,Vanellus leucurus,White-tailed Lapwing,Weißschwanzkiebitz,Ausnahmeerscheinung, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Bartramia longicauda,Upland Sandpiper,Prärieläufer, , 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Numenius phaeopus,Eurasian Whimbrel,Regenbrachvogel,Zugvogel, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Numenius tenuirostris,Slender-billed Curlew,Dünnschnabel-Brachvogel, , 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Limosa lapponica,Bar-tailed Godwit,Pfuhlschnepfe,Zugvogel, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Limosa limosa,Black-tailed Godwit,Uferschnepfe,"Brut-, Zugvogel",1
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Limnodromus scolopaceus,Long-billed Dowitcher,Tundraschlammläufer,Ausnahmeerscheinung, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Limnodromus griseus,Short-billed Dowitcher,Moorschlammläufer,besondere Ausnahmeerscheinung, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Lymnocryptes minimus,Jack Snipe,Zwergschnepfe,"Zugvogel, Wintergast", 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Scolopax rusticola,Eurasian Woodcock,Waldschnepfe,"Brut-, Jahres-, Zugvogel, Wintergast",V
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Gallinago media,Great Snipe,Doppelschnepfe,Ausnahmeerscheinung,0
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Gallinago gallinago,Common Snipe,Bekassine,"Brut-, Zugvogel, Wintergast",1
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Xenus cinereus,Terek Sandpiper,Terekwasserläufer,Ausnahmeerscheinung, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Actitis hypoleucos,Common Sandpiper,Flussuferläufer,"Brut-, Zugvogel",2
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Actitis macularius,Spotted Sandpiper,Drosseluferläufer,Ausnahmeerscheinung, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Phalaropus tricolor,Wilson's Phalarope,Wilsonwassertreter,Ausnahmeerscheinung, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Phalaropus fulicarius,Red Phalarope,Thorshühnchen,seltener Zugvogel, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Phalaropus lobatus,Red-necked Phalarope,Odinshühnchen,Zugvogel, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Tringa ochropus,Green Sandpiper,Waldwasserläufer,"Brut-, Zugvogel, Wintergast", 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Tringa stagnatilis,Marsh Sandpiper,Teichwasserläufer,seltener Zugvogel, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Tringa glareola,Wood Sandpiper,Bruchwasserläufer,"seltener, lokaler Brutvogel, Zugvogel",1
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Tringa totanus,Common Redshank,Rotschenkel,"Brut-, Jahres-, Zugvogel, Wintergast",2
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Tringa erythropus,Spotted Redshank,Dunkelwasserläufer,Zugvogel, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Tringa nebularia,Common Greenshank,Grünschenkel,Zugvogel, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Arenaria interpres,Ruddy Turnstone,Steinwälzer,"Zugvogel, Wintergast",0
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris canutus,Red Knot,Knutt,"Zugvogel, Wintergast", 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris pugnax,Ruff,Kampfläufer,seltener Brutvogel; Zugvogel,1
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris falcinellus,Broad-billed Sandpiper,Sumpfläufer,Zugvogel, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris ferruginea,Curlew Sandpiper,Sichelstrandläufer,Zugvogel, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris himantopus,Stilt Sandpiper,Bindenstrandläufer,besondere Ausnahmeerscheinung, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris temminckii,Temminck's Stint,Temminckstrandläufer,Zugvogel, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris subruficollis,Buff-breasted Sandpiper,Grasläufer,Ausnahmeerscheinung, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris alba,Sanderling,Sanderling,"Zugvogel, Wintergast", 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris alpina,Dunlin,Alpenstrandläufer,"seltener Brutvogel; Zugvogel, Wintergast",1
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris maritima,Purple Sandpiper,Meerstrandläufer,"Zugvogel, Wintergast", 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris bairdii,Baird's Sandpiper,Bairdstrandläufer,Ausnahmeerscheinung, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris melanotos,Pectoral Sandpiper,Graubrust-Strandläufer,seltener Zugvogel, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris pusilla,Semipalmated Sandpiper,Sandstrandläufer,besondere Ausnahmeerscheinung, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris minuta,Little Stint,Zwergstrandläufer,Zugvogel, 
-species,Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris minutilla,Least Sandpiper,Wiesenstrandläufer,besondere Ausnahmeerscheinung, 
-species,Charadriiformes,Glareolidae,Coursers and Pratincoles,Cursorius cursor,Cream-colored Courser,Rennvogel,besondere Ausnahmeerscheinung, 
-species,Charadriiformes,Glareolidae,Coursers and Pratincoles,Glareola nordmanni,Black-winged Pratincole,Schwarzflügel-Brachschwalbe,Ausnahmeerscheinung, 
-species,Charadriiformes,Glareolidae,Coursers and Pratincoles,Glareola pratincola,Collared Pratincole,Rotflügel-Brachschwalbe,Ausnahmeerscheinung, 
-species,Charadriiformes,Stercorariidae,Jaegers and Skuas,Stercorarius parasiticus,Parasitic Jaeger,Schmarotzerraubmöwe,Zugvogel, 
-species,Charadriiformes,Stercorariidae,Jaegers and Skuas,Stercorarius longicaudus,Long-tailed Jaeger,Falkenraubmöwe,seltener Zugvogel, 
-species,Charadriiformes,Stercorariidae,Jaegers and Skuas,Stercorarius pomarinus,Pomarine Jaeger,Spatelraubmöwe,seltener Zugvogel, 
-species,Charadriiformes,Alcidae,"Auks, Puffins, and Murres",Fratercula arctica,Atlantic Puffin,Papageitaucher,Zugvogel,0
-species,Charadriiformes,Alcidae,"Auks, Puffins, and Murres",Cepphus grylle,Black Guillemot,Gryllteiste,"seltener Zugvogel, Wintergast", 
-species,Charadriiformes,Alcidae,"Auks, Puffins, and Murres",Alca torda,Razorbill,Tordalk,"seltener, lokaler Brutvogel; Jahres-, Zugvogel, Wintergast",R
-species,Charadriiformes,Alcidae,"Auks, Puffins, and Murres",Alle alle,Little Auk,Krabbentaucher,Zugvogel; seltener Wintergast, 
-species,Charadriiformes,Alcidae,"Auks, Puffins, and Murres",Uria lomvia,Thick-billed Murre,Dickschnabellumme,besondere Ausnahmeerscheinung, 
-species,Charadriiformes,Alcidae,"Auks, Puffins, and Murres",Uria aalge,Common Murre,Trottellumme,"lokaler Brutvogel; Jahres-, Zugvogel, Wintergast",R
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Anous stolidus,Brown Noddy,Noddi, , 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Onychoprion fuscatus,Sooty Tern,Rußseeschwalbe,besondere Ausnahmeerscheinung, 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Onychoprion anaethetus,Bridled Tern,Zügelseeschwalbe,besondere Ausnahmeerscheinung, 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Sternula albifrons,Little Tern,Zwergseeschwalbe,"Brut-, Zugvogel",1
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Hydroprogne caspia,Caspian Tern,Raubseeschwalbe,"seltener, lokaler Brutvogel; Zugvogel",1
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Gelochelidon nilotica,Gull-billed Tern,Lachseeschwalbe,"seltener, lokaler Brutvogel; seltener Zugvogel",1
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Chlidonias hybrida,Whiskered Tern,Weißbart-Seeschwalbe,"seltener Brut-, Zugvogel",R
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Chlidonias leucopterus,White-winged Tern,Weißflügel-Seeschwalbe,"seltener Brut-, Zugvogel",R
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Chlidonias niger,Black Tern,Trauerseeschwalbe,"Brut-, Zugvogel",3
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Thalasseus sandvicensis,Sandwich Tern,Brandseeschwalbe,"Brut-, Zugvogel",1
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Thalasseus elegans,Elegant Tern,Schmuckseeschwalbe,besondere Ausnahmeerscheinung, 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Thalasseus bengalensis,Lesser Crested Tern,Rüppellseeschwalbe,besondere Ausnahmeerscheinung, 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Sterna paradisaea,Arctic Tern,Küstenseeschwalbe,"Brut-, Zugvogel",1
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Sterna hirundo,Common Tern,Flussseeschwalbe,"Brut-, Zugvogel",2
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Sterna dougallii,Roseate Tern,Rosenseeschwalbe,Ausnahmeerscheinung,0
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Hydrocoloeus minutus,Little Gull,Zwergmöwe,"seltener, lokaler Brutvogel; Zugvogel",R
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Rhodostethia rosea,Ross's Gull,Rosenmöwe,Ausnahmeerscheinung, 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Rissa tridactyla,Black-legged Kittiwake,Dreizehenmöwe,"lokaler Brut-, Jahres-, Zugvogel, Wintergast",2
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Xema sabini,Sabine's Gull,Schwalbenmöwe,seltener Zugvogel, 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Pagophila eburnea,Ivory Gull,Elfenbeinmöwe,Ausnahmeerscheinung, 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Chroicocephalus genei,Slender-billed Gull,Dünnschnabelmöwe,besondere Ausnahmeerscheinung, 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Chroicocephalus philadelphia,Bonaparte's Gull,Bonapartemöwe,besondere Ausnahmeerscheinung ,"
-"
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Chroicocephalus ridibundus,Black-headed Gull,Lachmöwe,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Leucophaeus atricilla,Laughing Gull,Aztekenmöwe,Ausnahmeerscheinung, 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Leucophaeus pipixcan,Franklin's Gull,Präriemöwe,Ausnahmeerscheinung, 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Ichthyaetus ichthyaetus,Pallas's Gull,Fischmöwe,Ausnahmeerscheinung, 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Ichthyaetus audouinii,Audouin's Gull,Korallenmöwe,Ausnahmeerscheinung, 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Ichthyaetus melanocephalus,Mediterranean Gull,Schwarzkopfmöwe,"Brut-, Zugvogel, seltener Wintergast", 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Larus delawarensis,Ring-billed Gull,Ringschnabelmöwe,Ausnahmeerscheinung, 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Larus canus,Common Gull,Sturmmöwe,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Larus cachinnans,Caspian Gull,Steppenmöwe,"seltener Brutvogel; Zugvogel, Wintergast", 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Larus smithsonianus,American Herring Gull,Kanadamöwe,besondere Ausnahmeerscheinung, 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Larus marinus,Great Black-backed Gull,Mantelmöwe,"seltener Brutvogel; Jahres-, Zugvogel, Wintergast", 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Larus hyperboreus,Glaucous Gull,Eismöwe,seltener Wintergast, 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Larus fuscus,Lesser Black-backed Gull,Heringsmöwe,"Brut-, Zugvogel, Wintergast", 
-species,Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Larus glaucoides,Iceland Gull,Polarmöwe,seltener Wintergast, 
-species,Gaviiformes,Gaviidae,Loons,Gavia stellata,Red-throated Loon,Sterntaucher,"Zugvogel, Wintergast", 
-species,Gaviiformes,Gaviidae,Loons,Gavia immer,Common Loon,Eistaucher,"seltener Zugvogel, Wintergast", 
-species,Gaviiformes,Gaviidae,Loons,Gavia adamsii,Yellow-billed Loon,Gelbschnabeltaucher,Ausnahmeerscheinung, 
-species,Gaviiformes,Gaviidae,Loons,Gavia arctica,Black-throated Loon,Prachttaucher,"Zugvogel, Wintergast", 
-species,Procellariiformes,Diomedeidae,Albatrosses,Thalassarche melanophris,Black-browed Albatross,Schwarzbrauenalbatros,besondere Ausnahmeerscheinung, 
-species,Procellariiformes,Hydrobatidae,Northern Storm Petrels,Hydrobates pelagicus,European Storm Petrel,Sturmwellenläufer,Ausnahmeerscheinung, 
-species,Procellariiformes,Hydrobatidae,Northern Storm Petrels,Hydrobates monorhis,Swinhoe's Storm Petrel,Swinhoewellenläufer,besondere Ausnahmeerscheinung, 
-species,Procellariiformes,Procellariidae,"Petrels, Shearwaters, and Diving Petrels",Fulmarus glacialis,Northern Fulmar,Eissturmvogel,"lokaler, seltener Brutvogel; Jahres-, Zugvogel, Wintergast",R
-species,Procellariiformes,Procellariidae,"Petrels, Shearwaters, and Diving Petrels",Bulweria bulwerii,Bulwer's Petrel,Bulwersturmvogel,besondere Ausnahmeerscheinung, 
-species,Procellariiformes,Procellariidae,"Petrels, Shearwaters, and Diving Petrels",Calonectris diomedea,Scopoli's Shearwater,Sepiasturmtaucher, , 
-species,Procellariiformes,Procellariidae,"Petrels, Shearwaters, and Diving Petrels",Calonectris borealis,Cory's Shearwater,Corysturmtaucher,besondere Ausnahmeerscheinung, 
-species,Procellariiformes,Procellariidae,"Petrels, Shearwaters, and Diving Petrels",Ardenna grisea,Sooty Shearwater,Dunkelsturmtaucher,seltener Zugvogel, 
-species,Procellariiformes,Procellariidae,"Petrels, Shearwaters, and Diving Petrels",Ardenna gravis,Great Shearwater,Kappensturmtaucher,besondere Ausnahmeerscheinung, 
-species,Procellariiformes,Procellariidae,"Petrels, Shearwaters, and Diving Petrels",Puffinus puffinus,Manx Shearwater,Atlantiksturmtaucher,Ausnahmeerscheinung, 
-species,Procellariiformes,Procellariidae,"Petrels, Shearwaters, and Diving Petrels",Puffinus baroli,Barolo Shearwater,Barolosturmtaucher,besondere Ausnahmeerscheinung, 
-species,Ciconiiformes,Ciconiidae,Storks,Ciconia nigra,Black Stork,Schwarzstorch,"Brut-, Zugvogel", 
-species,Ciconiiformes,Ciconiidae,Storks,Ciconia ciconia,White Stork,Weißstorch,"Brut-, Zug-, Jahresvogel",V
-species,Suliformes,Sulidae,Boobies and Gannets,Morus bassanus,Northern Gannet,Basstölpel,"lokaler Brutvogel; Jahres-, Zugvogel, Wintergast",R
-species,Suliformes,Sulidae,Boobies and Gannets,Sula leucogaster,Brown Booby,Weißbauchtölpel,besondere Ausnahmeerscheinung, 
-species,Pelecaniformes,Threskiornithidae,Ibises and Spoonbills,Platalea leucorodia,Eurasian Spoonbill,Löffler,"Brut-, Zugvogel",R
-species,Pelecaniformes,Pelecanidae,Pelicans,Pelecanus onocrotalus,Great White Pelican,Rosapelikan,Ausnahmeerscheinung, 
-species,Pelecaniformes,Pelecanidae,Pelicans,Pelecanus crispus,Dalmatian Pelican,Krauskopfpelikan,besondere Ausnahmeerscheinung, 
-species,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Botaurus stellaris,Eurasian Bittern,Rohrdommel,"Brut-, Jahres-, Zugvogel, Wintergast",3
-species,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Egretta garzetta,Little Egret,Seidenreiher,seltener Zugvogel, 
-species,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Nycticorax nycticorax,Black-crowned Night Heron,Nachtreiher,"lokaler, seltener Brutvogel; seltener Zugvogel",2
-species,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Ardeola ralloides,Squacco Heron,Rallenreiher,Ausnahmeerscheinung, 
-species,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Ardea purpurea,Purple Heron,Purpurreiher,"seltener, lokaler Brutvogel; seltener Zugvogel",R
-species,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Ardea cinerea,Grey Heron,Graureiher,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Caprimulgiformes,Caprimulgidae,Nightjars and Nighthawks,Caprimulgus europaeus,European Nightjar,Ziegenmelker,"Brut-, Zugvogel",3
-species,Caprimulgiformes,Caprimulgidae,Nightjars and Nighthawks,Caprimulgus aegyptius,Egyptian Nightjar,Pharaonen-Ziegenmelker, , 
-species,Apodiformes,Apodidae,Swifts,Tachymarptis melba,Alpine Swift,Alpensegler,"lokaler Brut-, Zugvogel", 
-species,Apodiformes,Apodidae,Swifts,Apus pacificus,Fork-tailed Swift,Pazifiksegler,besondere Ausnahmeerscheinung, 
-species,Apodiformes,Apodidae,Swifts,Apus affinis,Little Swift,Haussegler,besondere Ausnahmeerscheinung, 
-species,Apodiformes,Apodidae,Swifts,Apus apus,Common Swift,Mauersegler,"Brut-, Zugvogel", 
-species,Apodiformes,Apodidae,Swifts,Apus pallidus,Pallid Swift,Fahlsegler,Ausnahmeerscheinung, 
-species,Strigiformes,Tytonidae,Bay Owls and Barn Owls,Tyto alba,Western Barn Owl,Schleiereule,"Brut-, Jahresvogel", 
-species,Strigiformes,Strigidae,Owls,Aegolius funereus,Boreal Owl,Raufußkauz,"Brut-, Jahresvogel", 
-species,Strigiformes,Strigidae,Owls,Athene noctua,Little Owl,Steinkauz,"Brut-, Jahresvogel",V
-species,Strigiformes,Strigidae,Owls,Surnia ulula,Northern Hawk-Owl,Sperbereule,Ausnahmeerscheinung, 
-species,Strigiformes,Strigidae,Owls,Glaucidium passerinum,Eurasian Pygmy Owl,Sperlingskauz,"Brut-, Jahresvogel", 
-species,Strigiformes,Strigidae,Owls,Otus scops,Eurasian Scops Owl,Zwergohreule,Ausnahmeerscheinung, 
-species,Strigiformes,Strigidae,Owls,Asio flammeus,Short-eared Owl,Sumpfohreule,"seltener Brutvogel; Zugvogel, Wintergast",1
-species,Strigiformes,Strigidae,Owls,Asio otus,Long-eared Owl,Waldohreule,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Strigiformes,Strigidae,Owls,Bubo scandiacus,Snowy Owl,Schneeeule,Ausnahmeerscheinung, 
-species,Strigiformes,Strigidae,Owls,Bubo bubo,Eurasian Eagle-Owl,Uhu,"Brut-, Jahresvogel", 
-species,Strigiformes,Strigidae,Owls,Strix aluco,Tawny Owl,Waldkauz,"Brut-, Jahresvogel", 
-species,Strigiformes,Strigidae,Owls,Strix uralensis,Ural Owl,Habichtskauz,seltener Jahresvogel,R
-species,Accipitriformes,Pandionidae,Osprey,Pandion haliaetus,Osprey,Fischadler,"Brut-, Zugvogel",3
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Elanus caeruleus,Black-winged Kite,Gleitaar,Ausnahmeerscheinung, 
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Gypaetus barbatus,Bearded Vulture,Bartgeier,Ausnahmeerscheinung, 
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Neophron percnopterus,Egyptian Vulture,Schmutzgeier,Ausnahmeerscheinung, 
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Pernis apivorus,European Honey Buzzard,Wespenbussard,"Brut-, Zugvogel",V
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Aegypius monachus,Cinereous Vulture,Mönchsgeier,besondere Ausnahmeerscheinung, 
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Gyps fulvus,Griffon Vulture,Gänsegeier,Ausnahmeerscheinung,0
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Clanga clanga,Greater Spotted Eagle,Schelladler,Ausnahmeerscheinung, 
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Clanga pomarina,Lesser Spotted Eagle,Schreiadler,seltener Brutvogel; Zugvogel,1
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Hieraaetus pennatus,Booted Eagle,Zwergadler,Ausnahmeerscheinung, 
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Aquila nipalensis,Steppe Eagle,Steppenadler,besondere Ausnahmeerscheinung, 
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Aquila chrysaetos,Golden Eagle,Steinadler,seltener Brutvogel; Jahresvogel,R
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Aquila fasciata,Bonelli's Eagle,Habichtsadler,besondere Ausnahmeerscheinung, 
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Circus macrourus,Pallid Harrier,Steppenweihe,seltener Zugvogel, 
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Circus cyaneus,Hen Harrier,Kornweihe,"seltener Brutvogel; Jahres-, Zugvogel, Wintergast",1
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Circus pygargus,Montagu's Harrier,Wiesenweihe,"Brut-, Zugvogel",2
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Circus aeruginosus,Western Marsh Harrier,Rohrweihe,"Brut-, Zugvogel", 
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Milvus milvus,Red Kite,Rotmilan,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Milvus migrans,Black Kite,Schwarzmilan,"Brut-, Zugvogel", 
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Buteo lagopus,Rough-legged Buzzard,Raufußbussard,Wintergast, 
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Buteo buteo,Common Buzzard,Mäusebussard,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Buteo rufinus,Long-legged Buzzard,Adlerbussard,Ausnahmeerscheinung, 
-species,Bucerotiformes,Upupidae,Hoopoes,Upupa epops,Common Hoopoe,Wiedehopf,"Brut-, Zugvogel",3
-species,Coraciiformes,Coraciidae,Rollers,Coracias garrulus,European Roller,Blauracke,Ausnahmeerscheinung,0
-species,Coraciiformes,Meropidae,Bee-eaters,Merops persicus,Blue-cheeked Bee-eater,Blauwangenspint,Ausnahmeerscheinung, 
-species,Coraciiformes,Alcedinidae,Kingfishers,Alcedo atthis,Common Kingfisher,Eisvogel,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Piciformes,Picidae,Woodpeckers,Picus canus,Grey-headed Woodpecker,Grauspecht,"Brut-, Jahresvogel",2
-species,Piciformes,Picidae,Woodpeckers,Picus viridis,European Green Woodpecker,Grünspecht,"Brut-, Jahresvogel", 
-species,Piciformes,Picidae,Woodpeckers,Dryocopus martius,Black Woodpecker,Schwarzspecht,"Brut-, Jahresvogel", 
-species,Piciformes,Picidae,Woodpeckers,Picoides tridactylus,Eurasian Three-toed Woodpecker,Dreizehenspecht,"Brut-, Jahresvogel", 
-species,Piciformes,Picidae,Woodpeckers,Dendrocoptes medius,Middle Spotted Woodpecker,Mittelspecht,"Brut-, Jahresvogel", 
-species,Piciformes,Picidae,Woodpeckers,Dendrocopos leucotos,White-backed Woodpecker,Weißrückenspecht,"Brut-, Jahresvogel",2
-species,Piciformes,Picidae,Woodpeckers,Dendrocopos major,Great Spotted Woodpecker,Buntspecht,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Piciformes,Picidae,Woodpeckers,Dendrocopos syriacus,Syrian Woodpecker,Blutspecht,besondere Ausnahmeerscheinung, 
-species,Piciformes,Picidae,Woodpeckers,Dryobates minor,Lesser Spotted Woodpecker,Kleinspecht,"Brut-, Jahresvogel, Wintergast",3
-species,Falconiformes,Falconidae,Falcons and Caracaras,Falco naumanni,Lesser Kestrel,Rötelfalke,Ausnahmeerscheinung, 
-species,Falconiformes,Falconidae,Falcons and Caracaras,Falco tinnunculus,Common Kestrel,Turmfalke,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Falconiformes,Falconidae,Falcons and Caracaras,Falco vespertinus,Red-footed Falcon,Rotfußfalke,seltener Zugvogel, 
-species,Falconiformes,Falconidae,Falcons and Caracaras,Falco eleonorae,Eleonora's Falcon,Eleonorenfalke,besondere Ausnahmeerscheinung, 
-species,Falconiformes,Falconidae,Falcons and Caracaras,Falco subbuteo,Eurasian Hobby,Baumfalke,"Brut-, Zugvogel",3
-species,Falconiformes,Falconidae,Falcons and Caracaras,Falco peregrinus,Peregrine Falcon,Wanderfalke,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Falconiformes,Falconidae,Falcons and Caracaras,Falco rusticolus,Gyrfalcon,Gerfalke,Ausnahmeerscheinung, 
-species,Falconiformes,Falconidae,Falcons and Caracaras,Falco cherrug,Saker Falcon,Würgfalke,Ausnahmeerscheinung,0
-species,Psittaciformes,Psittaculidae,Old World Parrots,Psittacula krameri,Rose-ringed Parakeet,Halsbandsittich,"eingeführter Brut-, Jahresvogel", 
-species,Passeriformes,Vireonidae,"Shrike-babblers, Erpornis, and Vireos",Vireo olivaceus,Red-eyed Vireo,Rotaugenvireo,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Vireonidae,"Shrike-babblers, Erpornis, and Vireos",Vireo flavifrons,Yellow-throated Vireo,Gelbkehlvireo,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Oriolidae,Old World Orioles,Oriolus oriolus,Eurasian Golden Oriole,Pirol,"Brut-, Zugvogel",V
-species,Passeriformes,Laniidae,Shrikes,Lanius excubitor,Great Grey Shrike,Raubwürger,"Brut-, Jahres-, Zugvogel, Wintergast",1
-species,Passeriformes,Laniidae,Shrikes,Lanius nubicus,Masked Shrike,Maskenwürger,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Laniidae,Shrikes,Lanius minor,Lesser Grey Shrike,Schwarzstirnwürger,Ausnahmeerscheinung,0
-species,Passeriformes,Laniidae,Shrikes,Lanius senator,Woodchat Shrike,Rotkopfwürger,seltener Zugvogel,1
-species,Passeriformes,Laniidae,Shrikes,Lanius isabellinus,Isabelline Shrike,Isabellwürger,Ausnahmeerscheinung, 
-species,Passeriformes,Laniidae,Shrikes,Lanius collurio,Red-backed Shrike,Neuntöter,"Brut-, Zugvogel", 
-species,Passeriformes,Laniidae,Shrikes,Lanius phoenicuroides,Red-tailed Shrike,Rotschwanzwürger,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Laniidae,Shrikes,Lanius cristatus,Brown Shrike,Braunwürger,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Corvidae,"Crows, Jays, and Magpies",Pyrrhocorax graculus,Alpine Chough,Alpendohle,"Brut-, Jahresvogel",R
-species,Passeriformes,Corvidae,"Crows, Jays, and Magpies",Pyrrhocorax pyrrhocorax,Red-billed Chough,Alpenkrähe, , 
-species,Passeriformes,Corvidae,"Crows, Jays, and Magpies",Garrulus glandarius,Eurasian Jay,Eichelhäher,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Corvidae,"Crows, Jays, and Magpies",Pica pica,Eurasian Magpie,Elster,"Brut-, Jahresvogel", 
-species,Passeriformes,Corvidae,"Crows, Jays, and Magpies",Nucifraga caryocatactes,Northern Nutcracker,Tannenhäher,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Corvidae,"Crows, Jays, and Magpies",Coloeus monedula,Western Jackdaw,Dohle,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Corvidae,"Crows, Jays, and Magpies",Corvus frugilegus,Rook,Saatkrähe,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Corvidae,"Crows, Jays, and Magpies",Corvus corone,Carrion Crow,Rabenkrähe,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Remizidae,Penduline Tits,Remiz pendulinus,Eurasian Penduline Tit,Beutelmeise,"Brut-, Zugvogel",1
-species,Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Cyanistes cyanus,Azure Tit,Lasurmeise,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Cyanistes caeruleus,Eurasian Blue Tit,Blaumeise,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Parus major,Great Tit,Kohlmeise,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Periparus ater,Coal Tit,Tannenmeise,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Lophophanes cristatus,Crested Tit,Haubenmeise,"Brut-, Jahresvogel", 
-species,Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Poecile palustris,Marsh Tit,Sumpfmeise,"Brut-, Jahresvogel", 
-species,Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Poecile montanus,Willow Tit,Weidenmeise,"Brut-, Jahresvogel", 
-species,Passeriformes,Panuridae,Reedling,Panurus biarmicus,Bearded Reedling,Bartmeise,"Brut-, Jahres-, Zugvogel", 
-species,Passeriformes,Alaudidae,Larks,Lullula arborea,Woodlark,Heidelerche,"Brut-, Zugvogel",V
-species,Passeriformes,Alaudidae,Larks,Alauda leucoptera,White-winged Lark,Weißflügellerche, , 
-species,Passeriformes,Alaudidae,Larks,Alauda arvensis,Eurasian Skylark,Feldlerche,"Brut-, Jahres-, Zugvogel, Wintergast",3
-species,Passeriformes,Alaudidae,Larks,Galerida cristata,Crested Lark,Haubenlerche,"Brut-, Jahresvogel",1
-species,Passeriformes,Alaudidae,Larks,Eremophila alpestris,Horned Lark,Ohrenlerche,"Zugvogel, Wintergast", 
-species,Passeriformes,Alaudidae,Larks,Calandrella brachydactyla,Greater Short-toed Lark,Kurzzehenlerche,Ausnahmeerscheinung, 
-species,Passeriformes,Alaudidae,Larks,Melanocorypha bimaculata,Bimaculated Lark,Bergkalanderlerche,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Alaudidae,Larks,Melanocorypha yeltoniensis,Black Lark,Schwarzsteppenlerche,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Alaudidae,Larks,Melanocorypha calandra,Calandra Lark,Kalanderlerche,Ausnahmeerscheinung, 
-species,Passeriformes,Alaudidae,Larks,Alaudala rufescens,Mediterranean Short-toed Lark,Stummellerche, , 
-species,Passeriformes,Cisticolidae,Cisticolas and Allies,Cisticola juncidis,Zitting Cisticola,Zistensänger,Ausnahmeerscheinung, 
-species,Passeriformes,Acrocephalidae,Reed Warblers and Allies,Hippolais icterina,Icterine Warbler,Gelbspötter,"Brut-, Zugvogel", 
-species,Passeriformes,Acrocephalidae,Reed Warblers and Allies,Hippolais polyglotta,Melodious Warbler,Orpheusspötter,"Brut-, Zugvogel", 
-species,Passeriformes,Acrocephalidae,Reed Warblers and Allies,Iduna caligata,Booted Warbler,Buschspötter,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Acrocephalidae,Reed Warblers and Allies,Iduna rama,Sykes's Warbler,Steppenspötter,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Acrocephalidae,Reed Warblers and Allies,Iduna pallida,Eastern Olivaceous Warbler,Blassspötter,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Acrocephalidae,Reed Warblers and Allies,Acrocephalus schoenobaenus,Sedge Warbler,Schilfrohrsänger,"Brut-, Zugvogel", 
-species,Passeriformes,Acrocephalidae,Reed Warblers and Allies,Acrocephalus paludicola,Aquatic Warbler,Seggenrohrsänger,"seltener, lokaler Brutvogel; seltener Zugvogel",1
-species,Passeriformes,Acrocephalidae,Reed Warblers and Allies,Acrocephalus melanopogon,Moustached Warbler,Mariskenrohrsänger,Ausnahmeerscheinung, 
-species,Passeriformes,Acrocephalidae,Reed Warblers and Allies,Acrocephalus agricola,Paddyfield Warbler,Feldrohrsänger,Ausnahmeerscheinung, 
-species,Passeriformes,Acrocephalidae,Reed Warblers and Allies,Acrocephalus dumetorum,Blyth's Reed Warbler,Buschrohrsänger,Ausnahmeerscheinung, 
-species,Passeriformes,Acrocephalidae,Reed Warblers and Allies,Acrocephalus palustris,Marsh Warbler,Sumpfrohrsänger,"Brut-, Zugvogel", 
-species,Passeriformes,Acrocephalidae,Reed Warblers and Allies,Acrocephalus scirpaceus,Common Reed Warbler,Teichrohrsänger,"Brut-, Zugvogel", 
-species,Passeriformes,Acrocephalidae,Reed Warblers and Allies,Acrocephalus arundinaceus,Great Reed Warbler,Drosselrohrsänger,"Brut-, Zugvogel", 
-species,Passeriformes,Locustellidae,"Grasshopper Warblers, Grassbirds, and Allies",Helopsaltes certhiola,Pallas's Grasshopper Warbler,Streifenschwirl, , 
-species,Passeriformes,Locustellidae,"Grasshopper Warblers, Grassbirds, and Allies",Locustella lanceolata,Lanceolated Warbler,Strichelschwirl,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Locustellidae,"Grasshopper Warblers, Grassbirds, and Allies",Locustella fluviatilis,River Warbler,Schlagschwirl,"Brut-, Zugvogel", 
-species,Passeriformes,Locustellidae,"Grasshopper Warblers, Grassbirds, and Allies",Locustella luscinioides,Savi's Warbler,Rohrschwirl,"Brut-, Zugvogel", 
-species,Passeriformes,Locustellidae,"Grasshopper Warblers, Grassbirds, and Allies",Locustella naevia,Common Grasshopper Warbler,Feldschwirl,"Brut-, Zugvogel",2
-species,Passeriformes,Hirundinidae,Swallows,Riparia riparia,Sand Martin,Uferschwalbe,"Brut-, Zugvogel", 
-species,Passeriformes,Hirundinidae,Swallows,Ptyonoprogne rupestris,Eurasian Crag Martin,Felsenschwalbe,"Brut-, Zugvogel", 
-species,Passeriformes,Hirundinidae,Swallows,Hirundo rustica,Barn Swallow,Rauchschwalbe,"Brut-, Zugvogel",V
-species,Passeriformes,Hirundinidae,Swallows,Delichon urbicum,Western House Martin,Mehlschwalbe,"Brut-, Zugvogel",3
-species,Passeriformes,Hirundinidae,Swallows,Cecropis daurica,Eastern Red-rumped Swallow,Rötelschwalbe,Ausnahmeerscheinung, 
-species,Passeriformes,Aegithalidae,"Tit-warblers, Bushtits, and Long-tailed Tit",Aegithalos caudatus,Long-tailed Tit,Schwanzmeise,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Cettiidae,Bush Warblers and Allies,Cettia cetti,Cetti's Warbler,Seidensänger,Ausnahmeerscheinung, 
-species,Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus sibilatrix,Wood Warbler,Waldlaubsänger,"Brut-, Zugvogel", 
-species,Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus bonelli,Western Bonelli's Warbler,Berglaubsänger,"Brut-, Zugvogel", 
-species,Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus inornatus,Yellow-browed Warbler,Gelbbrauen-Laubsänger,seltener Zugvogel, 
-species,Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus humei,Hume's Leaf Warbler,Tienschan-Laubsänger,Ausnahmeerscheinung, 
-species,Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus proregulus,Pallas's Leaf Warbler,Goldhähnchen-Laubsänger,Ausnahmeerscheinung, 
-species,Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus schwarzi,Radde's Warbler,Bartlaubsänger,Ausnahmeerscheinung, 
-species,Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus fuscatus,Dusky Warbler,Dunkellaubsänger,Ausnahmeerscheinung, 
-species,Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus trochilus,Willow Warbler,Fitis,"Brut-, Zugvogel", 
-species,Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus ibericus,Iberian Chiffchaff,Iberienzilpzalp,Ausnahmeerscheinung, 
-species,Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus collybita,Common Chiffchaff,Zilpzalp,"Brut-, Zugvogel", 
-species,Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus coronatus,Eastern Crowned Warbler,Kronenlaubsänger,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus nitidus,Green Warbler,Wacholderlaubsänger,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus plumbeitarsus,Two-barred Warbler,Middendorff-Laubsänger,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus trochiloides,Greenish Warbler,Grünlaubsänger,"seltener, lokaler Brutvogel; seltener Zugvogel",R
-species,Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus borealis,Arctic Warbler,Wanderlaubsänger,Ausnahmeerscheinung, 
-species,Passeriformes,Sylviidae,Sylviid Warblers and Allies,Sylvia borin,Garden Warbler,Gartengrasmücke,"Brut-, Zugvogel", 
-species,Passeriformes,Sylviidae,Sylviid Warblers and Allies,Sylvia atricapilla,Eurasian Blackcap,Mönchsgrasmücke,"Brut-, Zugvogel", 
-species,Passeriformes,Regulidae,Kinglets,Regulus ignicapilla,Common Firecrest,Sommergoldhähnchen,"Brut-, Zugvogel", 
-species,Passeriformes,Regulidae,Kinglets,Regulus regulus,Goldcrest,Wintergoldhähnchen,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Tichodromidae,Wallcreeper,Tichodroma muraria,Wallcreeper,Mauerläufer,"Brut-, Jahresvogel",R
-species,Passeriformes,Certhiidae,Treecreepers,Certhia familiaris,Eurasian Treecreeper,Waldbaumläufer,"Brut-, Jahresvogel", 
-species,Passeriformes,Certhiidae,Treecreepers,Certhia brachydactyla,Short-toed Treecreeper,Gartenbaumläufer,"Brut-, Jahresvogel", 
-species,Passeriformes,Troglodytidae,Wrens,Troglodytes troglodytes,Eurasian Wren,Zaunkönig,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Mimidae,Mockingbirds and Thrashers,Dumetella carolinensis,Grey Catbird,Katzenvogel, , 
-species,Passeriformes,Sturnidae,"Rhabdornis, Starlings, and Mynas",Pastor roseus,Rosy Starling,Rosenstar,Ausnahmeerscheinung, 
-species,Passeriformes,Cinclidae,Dippers,Cinclus cinclus,White-throated Dipper,Wasseramsel,"Brut-, Jahresvogel, Wintergast", 
-species,Passeriformes,Turdidae,Thrushes and Allies,Zoothera aurea,White's Thrush,Erddrossel,Ausnahmeerscheinung, 
-species,Passeriformes,Turdidae,Thrushes and Allies,Catharus ustulatus,Swainson's Thrush,Zwergmusendrossel,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Turdidae,Thrushes and Allies,Catharus minimus,Grey-cheeked Thrush,Grauwangen-Musendrossel, , 
-species,Passeriformes,Turdidae,Thrushes and Allies,Catharus guttatus,Hermit Thrush,Einsiedler-Musendrossel, , 
-species,Passeriformes,Turdidae,Thrushes and Allies,Geokichla sibirica,Siberian Thrush,Schieferdrossel,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Turdidae,Thrushes and Allies,Turdus viscivorus,Mistle Thrush,Misteldrossel,"Brut-, Jahres-, Zugvogel", 
-species,Passeriformes,Turdidae,Thrushes and Allies,Turdus philomelos,Song Thrush,Singdrossel,"Brut-, Zugvogel", 
-species,Passeriformes,Turdidae,Thrushes and Allies,Turdus iliacus,Redwing,Rotdrossel,"Zugvogel, Wintergast", 
-species,Passeriformes,Turdidae,Thrushes and Allies,Turdus merula,Common Blackbird,Amsel,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Turdidae,Thrushes and Allies,Turdus pilaris,Fieldfare,Wacholderdrossel,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Turdidae,Thrushes and Allies,Turdus torquatus,Ring Ouzel,Ringdrossel,"Brut-, Zugvogel", 
-species,Passeriformes,Turdidae,Thrushes and Allies,Turdus ruficollis,Red-throated Thrush,Rotkehldrossel,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Turdidae,Thrushes and Allies,Turdus atrogularis,Black-throated Thrush,Schwarzkehldrossel,Ausnahmeerscheinung, 
-species,Passeriformes,Turdidae,Thrushes and Allies,Turdus naumanni,Naumann's Thrush,Rostschwanzdrossel,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Turdidae,Thrushes and Allies,Turdus eunomus,Dusky Thrush,Rostflügeldrossel,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Turdidae,Thrushes and Allies,Turdus unicolor,Tickell's Thrush,Einfarbdrossel, , 
-species,Passeriformes,Turdidae,Thrushes and Allies,Turdus obscurus,Eyebrowed Thrush,Weißbrauendrossel,Ausnahmeerscheinung, 
-species,Passeriformes,Turdidae,Thrushes and Allies,Turdus migratorius,American Robin,Wanderdrossel,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Cercotrichas galactotes,Rufous-tailed Scrub Robin,Heckensänger,Ausnahmeerscheinung, 
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Muscicapa striata,Spotted Flycatcher,Grauschnäpper,"Brut-, Zugvogel",V
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Erithacus rubecula,European Robin,Rotkehlchen,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Luscinia luscinia,Thrush Nightingale,Sprosser,"Brut-, Zugvogel",V
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Luscinia megarhynchos,Common Nightingale,Nachtigall,"Brut-, Zugvogel", 
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Luscinia svecica,Bluethroat,Blaukehlchen,"Brut-, Zugvogel", 
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Calliope calliope,Siberian Rubythroat,Rubinkehlchen,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Ficedula parva,Red-breasted Flycatcher,Zwergschnäpper,"Brut-, Zugvogel",V
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Ficedula albicollis,Collared Flycatcher,Halsbandschnäpper,"Brut-, Zugvogel",3
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Ficedula hypoleuca,European Pied Flycatcher,Trauerschnäpper,"Brut-, Zugvogel",3
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Tarsiger cyanurus,Red-flanked Bluetail,Blauschwanz,Ausnahmeerscheinung, 
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Phoenicurus ochruros,Black Redstart,Hausrotschwanz,"Brut-, Zugvogel", 
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Phoenicurus phoenicurus,Common Redstart,Gartenrotschwanz,"Brut-, Zugvogel", 
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Monticola saxatilis,Common Rock Thrush,Steinrötel,"seltener, lokaler Brutvogel; Ausnahmeerscheinung",1
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Monticola solitarius,Blue Rock Thrush,Blaumerle,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Saxicola maurus,Siberian Stonechat,Pallasschwarzkehlchen,Ausnahmeerscheinung, 
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Saxicola rubicola,European Stonechat,Schwarzkehlchen,"Brut-, Zugvogel", 
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Oenanthe deserti,Desert Wheatear,Wüstensteinschmätzer,Ausnahmeerscheinung, 
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Oenanthe hispanica,Western Black-eared Wheatear,Mittelmeer-Steinschmätzer,Ausnahmeerscheinung, 
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Oenanthe pleschanka,Pied Wheatear,Nonnensteinschmätzer,Ausnahmeerscheinung, 
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Oenanthe cypriaca,Cyprus Wheatear,Zypernsteinschmätzer, , 
-species,Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Oenanthe isabellina,Isabelline Wheatear,Isabellsteinschmätzer,Ausnahmeerscheinung, 
-species,Passeriformes,Prunellidae,Accentors,Prunella collaris,Alpine Accentor,Alpenbraunelle,"Brut-, Jahres-, Zugvogel",R
-species,Passeriformes,Prunellidae,Accentors,Prunella atrogularis,Black-throated Accentor,Schwarzkehlbraunelle,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Prunellidae,Accentors,Prunella montanella,Siberian Accentor,Bergbraunelle,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Passeridae,Snowfinches and Old World Sparrows,Petronia petronia,Rock Sparrow,Steinsperling, ,0
-species,Passeriformes,Passeridae,Snowfinches and Old World Sparrows,Montifringilla nivalis,White-winged Snowfinch,Schneesperling,"Brut-, Jahresvogel",R
-species,Passeriformes,Motacillidae,Wagtails and Pipits,Motacilla cinerea,Grey Wagtail,Gebirgsstelze,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Motacillidae,Wagtails and Pipits,Motacilla flava,Western Yellow Wagtail,Schafstelze,"Brut-, Zugvogel", 
-species,Passeriformes,Motacillidae,Wagtails and Pipits,Motacilla citreola,Citrine Wagtail,Zitronenstelze,Ausnahmeerscheinung, 
-species,Passeriformes,Motacillidae,Wagtails and Pipits,Anthus godlewskii,Blyth's Pipit,Steppenpieper,Ausnahmeerscheinung, 
-species,Passeriformes,Motacillidae,Wagtails and Pipits,Anthus campestris,Tawny Pipit,Brachpieper,"Brut-, Zugvogel",1
-species,Passeriformes,Motacillidae,Wagtails and Pipits,Anthus richardi,Richard's Pipit,Spornpieper,seltener Zugvogel, 
-species,Passeriformes,Motacillidae,Wagtails and Pipits,Anthus gustavi,Pechora Pipit,Petschorapieper,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Motacillidae,Wagtails and Pipits,Anthus trivialis,Tree Pipit,Baumpieper,"Brut-, Zugvogel",V
-species,Passeriformes,Motacillidae,Wagtails and Pipits,Anthus hodgsoni,Olive-backed Pipit,Waldpieper,Ausnahmeerscheinung, 
-species,Passeriformes,Motacillidae,Wagtails and Pipits,Anthus cervinus,Red-throated Pipit,Rotkehlpieper,Zugvogel, 
-species,Passeriformes,Motacillidae,Wagtails and Pipits,Anthus rubescens,American Pipit,Pazifikpieper,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Motacillidae,Wagtails and Pipits,Anthus pratensis,Meadow Pipit,Wiesenpieper,"Brut, Zugvogel, Wintergast",2
-species,Passeriformes,Motacillidae,Wagtails and Pipits,Anthus petrosus,European Rock Pipit,Strandpieper,"Zugvogel, Wintergast", 
-species,Passeriformes,Motacillidae,Wagtails and Pipits,Anthus spinoletta,Water Pipit,Bergpieper,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Fringilla montifringilla,Brambling,Bergfink,"Zugvogel, Wintergast", 
-species,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Fringilla coelebs,Eurasian Chaffinch,Buchfink,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Coccothraustes coccothraustes,Hawfinch,Kernbeißer,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Pinicola enucleator,Pine Grosbeak,Hakengimpel,Ausnahmeerscheinung, 
-species,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Bucanetes githagineus,Trumpeter Finch,Wüstengimpel,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Chloris chloris,European Greenfinch,Grünfink,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Linaria flavirostris,Twite,Berghänfling,Wintergast, 
-species,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Linaria cannabina,Common Linnet,Bluthänfling,"Brut-, Jahres-, Zugvogel, Wintergast",3
-species,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Loxia leucoptera,Two-barred Crossbill,Bindenkreuzschnabel,Ausnahmeerscheinung, 
-species,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Loxia pytyopsittacus,Parrot Crossbill,Kiefernkreuzschnabel,Ausnahmeerscheinung, 
-species,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Loxia curvirostra,Red Crossbill,Fichtenkreuzschnabel,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Carduelis citrinella,Citril Finch,Zitronenzeisig,"Brut-, Jahresvogel",3
-species,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Carduelis carduelis,European Goldfinch,Stieglitz,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Serinus serinus,European Serin,Girlitz,"Brut-, Zugvogel", 
-species,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Spinus spinus,Eurasian Siskin,Erlenzeisig,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Calcariidae,Longspurs and Snow Buntings,Plectrophenax nivalis,Snow Bunting,Schneeammer,"Zugvogel, Wintergast", 
-species,Passeriformes,Calcariidae,Longspurs and Snow Buntings,Calcarius lapponicus,Lapland Longspur,Spornammer,"Zugvogel, Wintergast", 
-species,Passeriformes,Emberizidae,Old World Buntings,Emberiza schoeniclus,Common Reed Bunting,Rohrammer,"Brut-, Zugvogel, Wintergast", 
-species,Passeriformes,Emberizidae,Old World Buntings,Emberiza aureola,Yellow-breasted Bunting,Weidenammer,Ausnahmeerscheinung, 
-species,Passeriformes,Emberizidae,Old World Buntings,Emberiza pusilla,Little Bunting,Zwergammer,Ausnahmeerscheinung, 
-species,Passeriformes,Emberizidae,Old World Buntings,Emberiza rustica,Rustic Bunting,Waldammer,Ausnahmeerscheinung, 
-species,Passeriformes,Emberizidae,Old World Buntings,Emberiza spodocephala,Black-faced Bunting,Maskenammer,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Emberizidae,Old World Buntings,Emberiza melanocephala,Black-headed Bunting,Kappenammer,Ausnahmeerscheinung, 
-species,Passeriformes,Emberizidae,Old World Buntings,Emberiza bruniceps,Red-headed Bunting,Braunkopfammer,Ausnahmeerscheinung, 
-species,Passeriformes,Emberizidae,Old World Buntings,Emberiza calandra,Corn Bunting,Grauammer,"Brut-, Jahres-, Zugvogel, Wintergast",V
-species,Passeriformes,Emberizidae,Old World Buntings,Emberiza cia,Rock Bunting,Zippammer,"Brut-, Jahres-, Zugvogel",1
-species,Passeriformes,Emberizidae,Old World Buntings,Emberiza buchanani,Grey-necked Bunting,Steinortolan,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Emberizidae,Old World Buntings,Emberiza cineracea,Cinereous Bunting,Türkenammer, , 
-species,Passeriformes,Emberizidae,Old World Buntings,Emberiza hortulana,Ortolan Bunting,Ortolan,"Brut-, Zugvogel",2
-species,Passeriformes,Emberizidae,Old World Buntings,Emberiza caesia,Cretzschmar's Bunting,Grauortolan,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Emberizidae,Old World Buntings,Emberiza leucocephalos,Pine Bunting,Fichtenammer,Ausnahmeerscheinung, 
-species,Passeriformes,Emberizidae,Old World Buntings,Emberiza citrinella,Yellowhammer,Goldammer,"Brut-, Jahres-, Zugvogel, Wintergast", 
-species,Passeriformes,Parulidae,New World Warblers,Setophaga americana,Northern Parula,Meisenwaldsänger,besondere Ausnahmeerscheinung, 
-species,Passeriformes,Parulidae,New World Warblers,Setophaga virens,Black-throated Green Warbler,Grünmantel-Waldsänger, , 
+Order,Family,Family_English_name,Scientific_name,English_name_AviList,German_name,Status,Rl-status,Rl-status-description
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Oxyura leucocephala,White-headed Duck,Weißkopf-Ruderente,Ausnahmeerscheinung,,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Oxyura jamaicensis,Ruddy Duck,Schwarzkopf-Ruderente,seltener Jahresvogel,,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Cygnus olor,Mute Swan,Höckerschwan,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Cygnus cygnus,Whooper Swan,Singschwan,"seltener Brutvogel; Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Branta bernicla,Brant Goose,Ringelgans,"Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Branta ruficollis,Red-breasted Goose,Rothalsgans,"seltener Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Branta canadensis,Canada Goose,Kanadagans,"eingeführter Brut-, Jahresvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Branta leucopsis,Barnacle Goose,Weißwangengans,"Brut-, Jahresvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anser indicus,Bar-headed Goose,Streifengans,"eingeführter, seltener Jahres-, Zugvogel",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anser anser,Greylag Goose,Graugans,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anser erythropus,Lesser White-fronted Goose,Zwerggans,seltener Zugvogel und Wintergast,,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anser albifrons,Greater White-fronted Goose,Blässgans,"Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anser serrirostris,Tundra Bean Goose,Tundrasaatgans,"Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anser brachyrhynchus,Pink-footed Goose,Kurzschnabelgans,"Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anser fabalis,Taiga Bean Goose,Waldsaatgans,"Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Aix galericulata,Mandarin Duck,Mandarinente,"eingeführter Brut-, Jahresvogel",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Alopochen aegyptiaca,Egyptian Goose,Nilgans,"eingeführter Brut-, Jahresvogel",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Tadorna tadorna,Common Shelduck,Brandgans,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Tadorna ferruginea,Ruddy Shelduck,Rostgans,"eingeführter Brut-, Jahresvogel, seltener Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Clangula hyemalis,Long-tailed Duck,Eisente,"Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Polysticta stelleri,Steller's Eider,Scheckente,Ausnahmeerscheinung,,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Somateria spectabilis,King Eider,Prachteiderente,Ausnahmeerscheinung,,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Somateria mollissima,Common Eider,Eiderente,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Histrionicus histrionicus,Harlequin Duck,Kragenente,besondere Ausnahmeerscheinung,,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Melanitta nigra,Common Scoter,Trauerente,"Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Melanitta perspicillata,Surf Scoter,Brillenente,besondere Ausnahmeerscheinung,,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Melanitta fusca,Velvet Scoter,Samtente,"Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Melanitta stejnegeri,Stejneger's Scoter,Kamtschatkasamtente,besondere Ausnahmeerscheinung,,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Bucephala islandica,Barrow's Goldeneye,Spatelente,besondere Ausnahmeerscheinung,,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Bucephala clangula,Common Goldeneye,Schellente,"Brut-, Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Mergus serrator,Red-breasted Merganser,Mittelsäger,"Brut-, Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Mergus merganser,Common Merganser,Gänsesäger,"Brut-, Zugvogel, Wintergast",3,Gefährdet
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Marmaronetta angustirostris,Marbled Duck,Marmelente,besondere Ausnahmeerscheinung,,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Netta rufina,Red-crested Pochard,Kolbenente,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Aythya nyroca,Ferruginous Duck,Moorente,"seltener, lokaler Brut-, Zugvogel, Wintergast",1,Vom Aussterben bedroht
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Aythya ferina,Common Pochard,Tafelente,"Brut-, Jahres-, Zugvogel, Wintergast",V,Vorwarnliste
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Aythya collaris,Ring-necked Duck,Ringschnabelente,Ausnahmeerscheinung,,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Aythya fuligula,Tufted Duck,Reiherente,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Aythya affinis,Lesser Scaup,Kanadabergente,besondere Ausnahmeerscheinung,,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Aythya marila,Greater Scaup,Bergente,"lokaler Brutvogel; Jahres-, Zugvogel, Wintergast",R,Extrem selten (geografische Restriktion)
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Spatula querquedula,Garganey,Knäkente,"Brut-, Zugvogel",1,Vom Aussterben bedroht
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Spatula discors,Blue-winged Teal,Blauflügelente,Ausnahmeerscheinung,,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Spatula clypeata,Northern Shoveler,Löffelente,"Brut-, Jahres-, Zugvogel, Wintergast",3,Gefährdet
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Mareca strepera,Gadwall,Schnatterente,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Mareca penelope,Eurasian Wigeon,Pfeifente,"seltener Brutvogel; Jahres-, Zugvogel, Wintergast",R,Extrem selten (geografische Restriktion)
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Mareca americana,American Wigeon,Kanadapfeifente,Ausnahmeerscheinung,,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anas platyrhynchos,Mallard,Stockente,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anas acuta,Northern Pintail,Spießente,"seltener Brutvogel; Jahres-, Zugvogel, Wintergast",2,Stark gefährdet
+Anseriformes,Anatidae,"Ducks, Swans, and Geese",Anas crecca,Green-winged Teal,Krickente,"Brut-, Jahres-, Zugvogel, Wintergast",3,Gefährdet
+Galliformes,Phasianidae,"Partridges, Pheasants, Grouse, and Allies",Tetrastes bonasia,Hazel Grouse,Haselhuhn,"Brut-, Jahresvogel",2,Stark gefährdet
+Galliformes,Phasianidae,"Partridges, Pheasants, Grouse, and Allies",Lagopus muta,Rock Ptarmigan,Alpenschneehuhn,"Brut-, Jahresvogel",R,Extrem selten (geografische Restriktion)
+Galliformes,Phasianidae,"Partridges, Pheasants, Grouse, and Allies",Tetrao urogallus,Western Capercaillie,Auerhuhn,"Brut-, Jahresvogel",1,Vom Aussterben bedroht
+Galliformes,Phasianidae,"Partridges, Pheasants, Grouse, and Allies",Lyrurus tetrix,Black Grouse,Birkhuhn,"Brut-, Jahresvogel",2,Stark gefährdet
+Galliformes,Phasianidae,"Partridges, Pheasants, Grouse, and Allies",Perdix perdix,Grey Partridge,Rebhuhn,"Brut-, Jahresvogel",2,Stark gefährdet
+Galliformes,Phasianidae,"Partridges, Pheasants, Grouse, and Allies",Phasianus colchicus,Common Pheasant,Jagdfasan,"eingeführter Brut-, Jahresvogel",,
+Galliformes,Phasianidae,"Partridges, Pheasants, Grouse, and Allies",Alectoris graeca,Rock Partridge,Steinhuhn,"seltener, lokaler Brut-, Jahresvogel",R,Extrem selten (geografische Restriktion)
+Phoenicopteriformes,Phoenicopteridae,Flamingos,Phoenicopterus roseus,Greater Flamingo,Rosaflamingo,"eingeführter, seltener, lokaler Brut-, Zugvogel",,
+Podicipediformes,Podicipedidae,Grebes,Tachybaptus ruficollis,Little Grebe,Zwergtaucher,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Podicipediformes,Podicipedidae,Grebes,Podilymbus podiceps,Pied-billed Grebe,Bindentaucher,besondere Ausnahmeerscheinung,,
+Podicipediformes,Podicipedidae,Grebes,Podiceps grisegena,Red-necked Grebe,Rothalstaucher,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Podicipediformes,Podicipedidae,Grebes,Podiceps cristatus,Great Crested Grebe,Haubentaucher,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Podicipediformes,Podicipedidae,Grebes,Podiceps nigricollis,Black-necked Grebe,Schwarzhalstaucher,"Brut-, Zugvogel, Wintergast",3,Gefährdet
+Otidiformes,Otididae,Bustards,Otis tarda,Great Bustard,Großtrappe,"seltener, lokaler Brut-, Jahresvogel",1,Vom Aussterben bedroht
+Otidiformes,Otididae,Bustards,Chlamydotis macqueenii,Asian Houbara,Steppenkragentrappe,besondere Ausnahmeerscheinung,,
+Otidiformes,Otididae,Bustards,Tetrax tetrax,Little Bustard,Zwergtrappe,Ausnahmeerscheinung,0,Als Brutvogel in Deutschland ausgestorben
+Cuculiformes,Cuculidae,Cuckoos,Clamator glandarius,Great Spotted Cuckoo,Häherkuckuck,Ausnahmeerscheinung,,
+Cuculiformes,Cuculidae,Cuckoos,Coccyzus erythropthalmus,Black-billed Cuckoo,Schwarzschnabelkuckuck,besondere Ausnahmeerscheinung,,
+Cuculiformes,Cuculidae,Cuckoos,Cuculus canorus,Common Cuckoo,Kuckuck,"Brut-, Zugvogel",3,Gefährdet
+Pterocliformes,Pteroclidae,Sandgrouse,Syrrhaptes paradoxus,Pallas's Sandgrouse,Steppenflughuhn,besondere Ausnahmeerscheinung,,
+Pterocliformes,Pteroclidae,Sandgrouse,Pterocles orientalis,Black-bellied Sandgrouse,Sandflughuhn,,,
+Columbiformes,Columbidae,Doves and Pigeons,Zenaida macroura,Mourning Dove,Carolinataube,besondere Ausnahmeerscheinung,,
+Columbiformes,Columbidae,Doves and Pigeons,Streptopelia orientalis,Oriental Turtle Dove,Orientturteltaube,besondere Ausnahmeerscheinung,,
+Columbiformes,Columbidae,Doves and Pigeons,Streptopelia turtur,European Turtle Dove,Turteltaube,"Brut-, Zugvogel",2,Stark gefährdet
+Columbiformes,Columbidae,Doves and Pigeons,Streptopelia decaocto,Eurasian Collared Dove,Türkentaube,"Brut-, Jahresvogel",,
+Columbiformes,Columbidae,Doves and Pigeons,Columba palumbus,Common Wood Pigeon,Ringeltaube,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Columbiformes,Columbidae,Doves and Pigeons,Columba oenas,Stock Dove,Hohltaube,"Brut-, Zugvogel",,
+Gruiformes,Gruidae,Cranes,Grus virgo,Demoiselle Crane,Jungfernkranich,Ausnahmeerscheinung,,
+Gruiformes,Gruidae,Cranes,Grus grus,Common Crane,Kranich,"Brut-, Zugvogel, Wintergast",,
+Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Rallus aquaticus,Water Rail,Wasserralle,"Brut-, Jahres-, Zugvogel, Wintergast",V,Vorwarnliste
+Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Crex crex,Corn Crake,Wachtelkönig,"Brut-, Zugvogel",1,Vom Aussterben bedroht
+Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Porzana porzana,Spotted Crake,Tüpfelsumpfhuhn,"Brut-, Zugvogel",3,Gefährdet
+Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Gallinula chloropus,Common Moorhen,Teichhuhn,"Brut-, Jahres-, Zugvogel, Wintergast",V,Vorwarnliste
+Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Fulica atra,Eurasian Coot,Blässhuhn,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Porphyrio alleni,Allen's Gallinule,Bronzesultanshuhn,besondere Ausnahmeerscheinung,,
+Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Porphyrio porphyrio,Purple Swamphen,Purpurhuhn,besondere Ausnahmeerscheinung,,
+Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Zapornia pusilla,Baillon's Crake,Zwergsumpfhuhn,seltener Brutvogel; Ausnahmeerscheinung,R,Extrem selten (geografische Restriktion)
+Charadriiformes,Recurvirostridae,Stilts and Avocets,Recurvirostra avosetta,Pied Avocet,Säbelschnäbler,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Charadriiformes,Haematopodidae,Oystercatchers,Haematopus ostralegus,Eurasian Oystercatcher,Austernfischer,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Charadriiformes,Charadriidae,Plovers and Lapwings,Pluvialis squatarola,Grey Plover,Kiebitzregenpfeifer,Zugvogel,,
+Charadriiformes,Charadriidae,Plovers and Lapwings,Pluvialis apricaria,European Golden Plover,Goldregenpfeifer,"seltener, lokaler Brutvogel; Zugvogel",1,Vom Aussterben bedroht
+Charadriiformes,Charadriidae,Plovers and Lapwings,Pluvialis dominica,American Golden Plover,Prärie-Goldregenpfeifer,besondere Ausnahmeerscheinung,,
+Charadriiformes,Charadriidae,Plovers and Lapwings,Pluvialis fulva,Pacific Golden Plover,Tundra-Goldregenpfeifer,Ausnahmeerscheinung,,
+Charadriiformes,Charadriidae,Plovers and Lapwings,Charadrius hiaticula,Common Ringed Plover,Sandregenpfeifer,"Brut-, Zugvogel",1,Vom Aussterben bedroht
+Charadriiformes,Charadriidae,Plovers and Lapwings,Vanellus indicus,Red-wattled Lapwing,Rotlappenkiebitz,besondere Ausnahmeerscheinung,,
+Charadriiformes,Charadriidae,Plovers and Lapwings,Vanellus gregarius,Sociable Lapwing,Steppenkiebitz,Ausnahmeerscheinung,,
+Charadriiformes,Charadriidae,Plovers and Lapwings,Vanellus leucurus,White-tailed Lapwing,Weißschwanzkiebitz,Ausnahmeerscheinung,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Bartramia longicauda,Upland Sandpiper,Prärieläufer,,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Numenius phaeopus,Eurasian Whimbrel,Regenbrachvogel,Zugvogel,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Numenius tenuirostris,Slender-billed Curlew,Dünnschnabel-Brachvogel,,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Limosa lapponica,Bar-tailed Godwit,Pfuhlschnepfe,Zugvogel,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Limosa limosa,Black-tailed Godwit,Uferschnepfe,"Brut-, Zugvogel",1,Vom Aussterben bedroht
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Limnodromus scolopaceus,Long-billed Dowitcher,Tundraschlammläufer,Ausnahmeerscheinung,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Limnodromus griseus,Short-billed Dowitcher,Moorschlammläufer,besondere Ausnahmeerscheinung,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Lymnocryptes minimus,Jack Snipe,Zwergschnepfe,"Zugvogel, Wintergast",,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Scolopax rusticola,Eurasian Woodcock,Waldschnepfe,"Brut-, Jahres-, Zugvogel, Wintergast",V,Vorwarnliste
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Gallinago media,Great Snipe,Doppelschnepfe,Ausnahmeerscheinung,0,Als Brutvogel in Deutschland ausgestorben
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Gallinago gallinago,Common Snipe,Bekassine,"Brut-, Zugvogel, Wintergast",1,Vom Aussterben bedroht
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Xenus cinereus,Terek Sandpiper,Terekwasserläufer,Ausnahmeerscheinung,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Actitis hypoleucos,Common Sandpiper,Flussuferläufer,"Brut-, Zugvogel",2,Stark gefährdet
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Actitis macularius,Spotted Sandpiper,Drosseluferläufer,Ausnahmeerscheinung,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Phalaropus tricolor,Wilson's Phalarope,Wilsonwassertreter,Ausnahmeerscheinung,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Phalaropus fulicarius,Red Phalarope,Thorshühnchen,seltener Zugvogel,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Phalaropus lobatus,Red-necked Phalarope,Odinshühnchen,Zugvogel,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Tringa ochropus,Green Sandpiper,Waldwasserläufer,"Brut-, Zugvogel, Wintergast",,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Tringa stagnatilis,Marsh Sandpiper,Teichwasserläufer,seltener Zugvogel,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Tringa glareola,Wood Sandpiper,Bruchwasserläufer,"seltener, lokaler Brutvogel, Zugvogel",1,Vom Aussterben bedroht
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Tringa totanus,Common Redshank,Rotschenkel,"Brut-, Jahres-, Zugvogel, Wintergast",2,Stark gefährdet
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Tringa erythropus,Spotted Redshank,Dunkelwasserläufer,Zugvogel,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Tringa nebularia,Common Greenshank,Grünschenkel,Zugvogel,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Arenaria interpres,Ruddy Turnstone,Steinwälzer,"Zugvogel, Wintergast",0,Als Brutvogel in Deutschland ausgestorben
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris canutus,Red Knot,Knutt,"Zugvogel, Wintergast",,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris pugnax,Ruff,Kampfläufer,seltener Brutvogel; Zugvogel,1,Vom Aussterben bedroht
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris falcinellus,Broad-billed Sandpiper,Sumpfläufer,Zugvogel,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris ferruginea,Curlew Sandpiper,Sichelstrandläufer,Zugvogel,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris himantopus,Stilt Sandpiper,Bindenstrandläufer,besondere Ausnahmeerscheinung,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris temminckii,Temminck's Stint,Temminckstrandläufer,Zugvogel,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris subruficollis,Buff-breasted Sandpiper,Grasläufer,Ausnahmeerscheinung,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris alba,Sanderling,Sanderling,"Zugvogel, Wintergast",,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris alpina,Dunlin,Alpenstrandläufer,"seltener Brutvogel; Zugvogel, Wintergast",1,Vom Aussterben bedroht
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris maritima,Purple Sandpiper,Meerstrandläufer,"Zugvogel, Wintergast",,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris bairdii,Baird's Sandpiper,Bairdstrandläufer,Ausnahmeerscheinung,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris melanotos,Pectoral Sandpiper,Graubrust-Strandläufer,seltener Zugvogel,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris pusilla,Semipalmated Sandpiper,Sandstrandläufer,besondere Ausnahmeerscheinung,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris minuta,Little Stint,Zwergstrandläufer,Zugvogel,,
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris minutilla,Least Sandpiper,Wiesenstrandläufer,besondere Ausnahmeerscheinung,,
+Charadriiformes,Glareolidae,Coursers and Pratincoles,Cursorius cursor,Cream-colored Courser,Rennvogel,besondere Ausnahmeerscheinung,,
+Charadriiformes,Glareolidae,Coursers and Pratincoles,Glareola nordmanni,Black-winged Pratincole,Schwarzflügel-Brachschwalbe,Ausnahmeerscheinung,,
+Charadriiformes,Glareolidae,Coursers and Pratincoles,Glareola pratincola,Collared Pratincole,Rotflügel-Brachschwalbe,Ausnahmeerscheinung,,
+Charadriiformes,Stercorariidae,Jaegers and Skuas,Stercorarius parasiticus,Parasitic Jaeger,Schmarotzerraubmöwe,Zugvogel,,
+Charadriiformes,Stercorariidae,Jaegers and Skuas,Stercorarius longicaudus,Long-tailed Jaeger,Falkenraubmöwe,seltener Zugvogel,,
+Charadriiformes,Stercorariidae,Jaegers and Skuas,Stercorarius pomarinus,Pomarine Jaeger,Spatelraubmöwe,seltener Zugvogel,,
+Charadriiformes,Alcidae,"Auks, Puffins, and Murres",Fratercula arctica,Atlantic Puffin,Papageitaucher,Zugvogel,0,Als Brutvogel in Deutschland ausgestorben
+Charadriiformes,Alcidae,"Auks, Puffins, and Murres",Cepphus grylle,Black Guillemot,Gryllteiste,"seltener Zugvogel, Wintergast",,
+Charadriiformes,Alcidae,"Auks, Puffins, and Murres",Alca torda,Razorbill,Tordalk,"seltener, lokaler Brutvogel; Jahres-, Zugvogel, Wintergast",R,Extrem selten (geografische Restriktion)
+Charadriiformes,Alcidae,"Auks, Puffins, and Murres",Alle alle,Little Auk,Krabbentaucher,Zugvogel; seltener Wintergast,,
+Charadriiformes,Alcidae,"Auks, Puffins, and Murres",Uria lomvia,Thick-billed Murre,Dickschnabellumme,besondere Ausnahmeerscheinung,,
+Charadriiformes,Alcidae,"Auks, Puffins, and Murres",Uria aalge,Common Murre,Trottellumme,"lokaler Brutvogel; Jahres-, Zugvogel, Wintergast",R,Extrem selten (geografische Restriktion)
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Anous stolidus,Brown Noddy,Noddi,,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Onychoprion fuscatus,Sooty Tern,Rußseeschwalbe,besondere Ausnahmeerscheinung,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Onychoprion anaethetus,Bridled Tern,Zügelseeschwalbe,besondere Ausnahmeerscheinung,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Sternula albifrons,Little Tern,Zwergseeschwalbe,"Brut-, Zugvogel",1,Vom Aussterben bedroht
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Hydroprogne caspia,Caspian Tern,Raubseeschwalbe,"seltener, lokaler Brutvogel; Zugvogel",1,Vom Aussterben bedroht
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Gelochelidon nilotica,Gull-billed Tern,Lachseeschwalbe,"seltener, lokaler Brutvogel; seltener Zugvogel",1,Vom Aussterben bedroht
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Chlidonias hybrida,Whiskered Tern,Weißbart-Seeschwalbe,"seltener Brut-, Zugvogel",R,Extrem selten (geografische Restriktion)
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Chlidonias leucopterus,White-winged Tern,Weißflügel-Seeschwalbe,"seltener Brut-, Zugvogel",R,Extrem selten (geografische Restriktion)
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Chlidonias niger,Black Tern,Trauerseeschwalbe,"Brut-, Zugvogel",3,Gefährdet
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Thalasseus sandvicensis,Sandwich Tern,Brandseeschwalbe,"Brut-, Zugvogel",1,Vom Aussterben bedroht
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Thalasseus elegans,Elegant Tern,Schmuckseeschwalbe,besondere Ausnahmeerscheinung,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Thalasseus bengalensis,Lesser Crested Tern,Rüppellseeschwalbe,besondere Ausnahmeerscheinung,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Sterna paradisaea,Arctic Tern,Küstenseeschwalbe,"Brut-, Zugvogel",1,Vom Aussterben bedroht
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Sterna hirundo,Common Tern,Flussseeschwalbe,"Brut-, Zugvogel",2,Stark gefährdet
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Sterna dougallii,Roseate Tern,Rosenseeschwalbe,Ausnahmeerscheinung,0,Als Brutvogel in Deutschland ausgestorben
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Hydrocoloeus minutus,Little Gull,Zwergmöwe,"seltener, lokaler Brutvogel; Zugvogel",R,Extrem selten (geografische Restriktion)
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Rhodostethia rosea,Ross's Gull,Rosenmöwe,Ausnahmeerscheinung,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Rissa tridactyla,Black-legged Kittiwake,Dreizehenmöwe,"lokaler Brut-, Jahres-, Zugvogel, Wintergast",2,Stark gefährdet
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Xema sabini,Sabine's Gull,Schwalbenmöwe,seltener Zugvogel,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Pagophila eburnea,Ivory Gull,Elfenbeinmöwe,Ausnahmeerscheinung,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Chroicocephalus genei,Slender-billed Gull,Dünnschnabelmöwe,besondere Ausnahmeerscheinung,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Chroicocephalus philadelphia,Bonaparte's Gull,Bonapartemöwe,besondere Ausnahmeerscheinung ,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Chroicocephalus ridibundus,Black-headed Gull,Lachmöwe,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Leucophaeus atricilla,Laughing Gull,Aztekenmöwe,Ausnahmeerscheinung,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Leucophaeus pipixcan,Franklin's Gull,Präriemöwe,Ausnahmeerscheinung,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Ichthyaetus ichthyaetus,Pallas's Gull,Fischmöwe,Ausnahmeerscheinung,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Ichthyaetus audouinii,Audouin's Gull,Korallenmöwe,Ausnahmeerscheinung,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Ichthyaetus melanocephalus,Mediterranean Gull,Schwarzkopfmöwe,"Brut-, Zugvogel, seltener Wintergast",,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Larus delawarensis,Ring-billed Gull,Ringschnabelmöwe,Ausnahmeerscheinung,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Larus canus,Common Gull,Sturmmöwe,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Larus cachinnans,Caspian Gull,Steppenmöwe,"seltener Brutvogel; Zugvogel, Wintergast",,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Larus smithsonianus,American Herring Gull,Kanadamöwe,besondere Ausnahmeerscheinung,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Larus marinus,Great Black-backed Gull,Mantelmöwe,"seltener Brutvogel; Jahres-, Zugvogel, Wintergast",,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Larus hyperboreus,Glaucous Gull,Eismöwe,seltener Wintergast,,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Larus fuscus,Lesser Black-backed Gull,Heringsmöwe,"Brut-, Zugvogel, Wintergast",,
+Charadriiformes,Laridae,"Skimmers, Noddies, Terns, and Gulls",Larus glaucoides,Iceland Gull,Polarmöwe,seltener Wintergast,,
+Gaviiformes,Gaviidae,Loons,Gavia stellata,Red-throated Loon,Sterntaucher,"Zugvogel, Wintergast",,
+Gaviiformes,Gaviidae,Loons,Gavia immer,Common Loon,Eistaucher,"seltener Zugvogel, Wintergast",,
+Gaviiformes,Gaviidae,Loons,Gavia adamsii,Yellow-billed Loon,Gelbschnabeltaucher,Ausnahmeerscheinung,,
+Gaviiformes,Gaviidae,Loons,Gavia arctica,Black-throated Loon,Prachttaucher,"Zugvogel, Wintergast",,
+Procellariiformes,Diomedeidae,Albatrosses,Thalassarche melanophris,Black-browed Albatross,Schwarzbrauenalbatros,besondere Ausnahmeerscheinung,,
+Procellariiformes,Hydrobatidae,Northern Storm Petrels,Hydrobates pelagicus,European Storm Petrel,Sturmwellenläufer,Ausnahmeerscheinung,,
+Procellariiformes,Hydrobatidae,Northern Storm Petrels,Hydrobates monorhis,Swinhoe's Storm Petrel,Swinhoewellenläufer,besondere Ausnahmeerscheinung,,
+Procellariiformes,Procellariidae,"Petrels, Shearwaters, and Diving Petrels",Fulmarus glacialis,Northern Fulmar,Eissturmvogel,"lokaler, seltener Brutvogel; Jahres-, Zugvogel, Wintergast",R,Extrem selten (geografische Restriktion)
+Procellariiformes,Procellariidae,"Petrels, Shearwaters, and Diving Petrels",Bulweria bulwerii,Bulwer's Petrel,Bulwersturmvogel,besondere Ausnahmeerscheinung,,
+Procellariiformes,Procellariidae,"Petrels, Shearwaters, and Diving Petrels",Calonectris diomedea,Scopoli's Shearwater,Sepiasturmtaucher,,,
+Procellariiformes,Procellariidae,"Petrels, Shearwaters, and Diving Petrels",Calonectris borealis,Cory's Shearwater,Corysturmtaucher,besondere Ausnahmeerscheinung,,
+Procellariiformes,Procellariidae,"Petrels, Shearwaters, and Diving Petrels",Ardenna grisea,Sooty Shearwater,Dunkelsturmtaucher,seltener Zugvogel,,
+Procellariiformes,Procellariidae,"Petrels, Shearwaters, and Diving Petrels",Ardenna gravis,Great Shearwater,Kappensturmtaucher,besondere Ausnahmeerscheinung,,
+Procellariiformes,Procellariidae,"Petrels, Shearwaters, and Diving Petrels",Puffinus puffinus,Manx Shearwater,Atlantiksturmtaucher,Ausnahmeerscheinung,,
+Procellariiformes,Procellariidae,"Petrels, Shearwaters, and Diving Petrels",Puffinus baroli,Barolo Shearwater,Barolosturmtaucher,besondere Ausnahmeerscheinung,,
+Ciconiiformes,Ciconiidae,Storks,Ciconia nigra,Black Stork,Schwarzstorch,"Brut-, Zugvogel",,
+Ciconiiformes,Ciconiidae,Storks,Ciconia ciconia,White Stork,Weißstorch,"Brut-, Zug-, Jahresvogel",V,Vorwarnliste
+Suliformes,Sulidae,Boobies and Gannets,Morus bassanus,Northern Gannet,Basstölpel,"lokaler Brutvogel; Jahres-, Zugvogel, Wintergast",R,Extrem selten (geografische Restriktion)
+Suliformes,Sulidae,Boobies and Gannets,Sula leucogaster,Brown Booby,Weißbauchtölpel,besondere Ausnahmeerscheinung,,
+Pelecaniformes,Threskiornithidae,Ibises and Spoonbills,Platalea leucorodia,Eurasian Spoonbill,Löffler,"Brut-, Zugvogel",R,Extrem selten (geografische Restriktion)
+Pelecaniformes,Pelecanidae,Pelicans,Pelecanus onocrotalus,Great White Pelican,Rosapelikan,Ausnahmeerscheinung,,
+Pelecaniformes,Pelecanidae,Pelicans,Pelecanus crispus,Dalmatian Pelican,Krauskopfpelikan,besondere Ausnahmeerscheinung,,
+Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Botaurus stellaris,Eurasian Bittern,Rohrdommel,"Brut-, Jahres-, Zugvogel, Wintergast",3,Gefährdet
+Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Egretta garzetta,Little Egret,Seidenreiher,seltener Zugvogel,,
+Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Nycticorax nycticorax,Black-crowned Night Heron,Nachtreiher,"lokaler, seltener Brutvogel; seltener Zugvogel",2,Stark gefährdet
+Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Ardeola ralloides,Squacco Heron,Rallenreiher,Ausnahmeerscheinung,,
+Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Ardea purpurea,Purple Heron,Purpurreiher,"seltener, lokaler Brutvogel; seltener Zugvogel",R,Extrem selten (geografische Restriktion)
+Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Ardea cinerea,Grey Heron,Graureiher,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Caprimulgiformes,Caprimulgidae,Nightjars and Nighthawks,Caprimulgus europaeus,European Nightjar,Ziegenmelker,"Brut-, Zugvogel",3,Gefährdet
+Caprimulgiformes,Caprimulgidae,Nightjars and Nighthawks,Caprimulgus aegyptius,Egyptian Nightjar,Pharaonen-Ziegenmelker,,,
+Apodiformes,Apodidae,Swifts,Tachymarptis melba,Alpine Swift,Alpensegler,"lokaler Brut-, Zugvogel",,
+Apodiformes,Apodidae,Swifts,Apus pacificus,Fork-tailed Swift,Pazifiksegler,besondere Ausnahmeerscheinung,,
+Apodiformes,Apodidae,Swifts,Apus affinis,Little Swift,Haussegler,besondere Ausnahmeerscheinung,,
+Apodiformes,Apodidae,Swifts,Apus apus,Common Swift,Mauersegler,"Brut-, Zugvogel",,
+Apodiformes,Apodidae,Swifts,Apus pallidus,Pallid Swift,Fahlsegler,Ausnahmeerscheinung,,
+Strigiformes,Tytonidae,Bay Owls and Barn Owls,Tyto alba,Western Barn Owl,Schleiereule,"Brut-, Jahresvogel",,
+Strigiformes,Strigidae,Owls,Aegolius funereus,Boreal Owl,Raufußkauz,"Brut-, Jahresvogel",,
+Strigiformes,Strigidae,Owls,Athene noctua,Little Owl,Steinkauz,"Brut-, Jahresvogel",V,Vorwarnliste
+Strigiformes,Strigidae,Owls,Surnia ulula,Northern Hawk-Owl,Sperbereule,Ausnahmeerscheinung,,
+Strigiformes,Strigidae,Owls,Glaucidium passerinum,Eurasian Pygmy Owl,Sperlingskauz,"Brut-, Jahresvogel",,
+Strigiformes,Strigidae,Owls,Otus scops,Eurasian Scops Owl,Zwergohreule,Ausnahmeerscheinung,,
+Strigiformes,Strigidae,Owls,Asio flammeus,Short-eared Owl,Sumpfohreule,"seltener Brutvogel; Zugvogel, Wintergast",1,Vom Aussterben bedroht
+Strigiformes,Strigidae,Owls,Asio otus,Long-eared Owl,Waldohreule,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Strigiformes,Strigidae,Owls,Bubo scandiacus,Snowy Owl,Schneeeule,Ausnahmeerscheinung,,
+Strigiformes,Strigidae,Owls,Bubo bubo,Eurasian Eagle-Owl,Uhu,"Brut-, Jahresvogel",,
+Strigiformes,Strigidae,Owls,Strix aluco,Tawny Owl,Waldkauz,"Brut-, Jahresvogel",,
+Strigiformes,Strigidae,Owls,Strix uralensis,Ural Owl,Habichtskauz,seltener Jahresvogel,R,Extrem selten (geografische Restriktion)
+Accipitriformes,Pandionidae,Osprey,Pandion haliaetus,Osprey,Fischadler,"Brut-, Zugvogel",3,Gefährdet
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Elanus caeruleus,Black-winged Kite,Gleitaar,Ausnahmeerscheinung,,
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Gypaetus barbatus,Bearded Vulture,Bartgeier,Ausnahmeerscheinung,,
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Neophron percnopterus,Egyptian Vulture,Schmutzgeier,Ausnahmeerscheinung,,
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Pernis apivorus,European Honey Buzzard,Wespenbussard,"Brut-, Zugvogel",V,Vorwarnliste
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Aegypius monachus,Cinereous Vulture,Mönchsgeier,besondere Ausnahmeerscheinung,,
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Gyps fulvus,Griffon Vulture,Gänsegeier,Ausnahmeerscheinung,0,Als Brutvogel in Deutschland ausgestorben
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Clanga clanga,Greater Spotted Eagle,Schelladler,Ausnahmeerscheinung,,
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Clanga pomarina,Lesser Spotted Eagle,Schreiadler,seltener Brutvogel; Zugvogel,1,Vom Aussterben bedroht
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Hieraaetus pennatus,Booted Eagle,Zwergadler,Ausnahmeerscheinung,,
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Aquila nipalensis,Steppe Eagle,Steppenadler,besondere Ausnahmeerscheinung,,
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Aquila chrysaetos,Golden Eagle,Steinadler,seltener Brutvogel; Jahresvogel,R,Extrem selten (geografische Restriktion)
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Aquila fasciata,Bonelli's Eagle,Habichtsadler,besondere Ausnahmeerscheinung,,
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Circus macrourus,Pallid Harrier,Steppenweihe,seltener Zugvogel,,
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Circus cyaneus,Hen Harrier,Kornweihe,"seltener Brutvogel; Jahres-, Zugvogel, Wintergast",1,Vom Aussterben bedroht
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Circus pygargus,Montagu's Harrier,Wiesenweihe,"Brut-, Zugvogel",2,Stark gefährdet
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Circus aeruginosus,Western Marsh Harrier,Rohrweihe,"Brut-, Zugvogel",,
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Milvus milvus,Red Kite,Rotmilan,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Milvus migrans,Black Kite,Schwarzmilan,"Brut-, Zugvogel",,
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Buteo lagopus,Rough-legged Buzzard,Raufußbussard,Wintergast,,
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Buteo buteo,Common Buzzard,Mäusebussard,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Accipitriformes,Accipitridae,"Kites, Old World Vultures, Eagles, and Hawks",Buteo rufinus,Long-legged Buzzard,Adlerbussard,Ausnahmeerscheinung,,
+Bucerotiformes,Upupidae,Hoopoes,Upupa epops,Common Hoopoe,Wiedehopf,"Brut-, Zugvogel",3,Gefährdet
+Coraciiformes,Coraciidae,Rollers,Coracias garrulus,European Roller,Blauracke,Ausnahmeerscheinung,0,Als Brutvogel in Deutschland ausgestorben
+Coraciiformes,Meropidae,Bee-eaters,Merops persicus,Blue-cheeked Bee-eater,Blauwangenspint,Ausnahmeerscheinung,,
+Coraciiformes,Alcedinidae,Kingfishers,Alcedo atthis,Common Kingfisher,Eisvogel,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Piciformes,Picidae,Woodpeckers,Picus canus,Grey-headed Woodpecker,Grauspecht,"Brut-, Jahresvogel",2,Stark gefährdet
+Piciformes,Picidae,Woodpeckers,Picus viridis,European Green Woodpecker,Grünspecht,"Brut-, Jahresvogel",,
+Piciformes,Picidae,Woodpeckers,Dryocopus martius,Black Woodpecker,Schwarzspecht,"Brut-, Jahresvogel",,
+Piciformes,Picidae,Woodpeckers,Picoides tridactylus,Eurasian Three-toed Woodpecker,Dreizehenspecht,"Brut-, Jahresvogel",,
+Piciformes,Picidae,Woodpeckers,Dendrocoptes medius,Middle Spotted Woodpecker,Mittelspecht,"Brut-, Jahresvogel",,
+Piciformes,Picidae,Woodpeckers,Dendrocopos leucotos,White-backed Woodpecker,Weißrückenspecht,"Brut-, Jahresvogel",2,Stark gefährdet
+Piciformes,Picidae,Woodpeckers,Dendrocopos major,Great Spotted Woodpecker,Buntspecht,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Piciformes,Picidae,Woodpeckers,Dendrocopos syriacus,Syrian Woodpecker,Blutspecht,besondere Ausnahmeerscheinung,,
+Piciformes,Picidae,Woodpeckers,Dryobates minor,Lesser Spotted Woodpecker,Kleinspecht,"Brut-, Jahresvogel, Wintergast",3,Gefährdet
+Falconiformes,Falconidae,Falcons and Caracaras,Falco naumanni,Lesser Kestrel,Rötelfalke,Ausnahmeerscheinung,,
+Falconiformes,Falconidae,Falcons and Caracaras,Falco tinnunculus,Common Kestrel,Turmfalke,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Falconiformes,Falconidae,Falcons and Caracaras,Falco vespertinus,Red-footed Falcon,Rotfußfalke,seltener Zugvogel,,
+Falconiformes,Falconidae,Falcons and Caracaras,Falco eleonorae,Eleonora's Falcon,Eleonorenfalke,besondere Ausnahmeerscheinung,,
+Falconiformes,Falconidae,Falcons and Caracaras,Falco subbuteo,Eurasian Hobby,Baumfalke,"Brut-, Zugvogel",3,Gefährdet
+Falconiformes,Falconidae,Falcons and Caracaras,Falco peregrinus,Peregrine Falcon,Wanderfalke,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Falconiformes,Falconidae,Falcons and Caracaras,Falco rusticolus,Gyrfalcon,Gerfalke,Ausnahmeerscheinung,,
+Falconiformes,Falconidae,Falcons and Caracaras,Falco cherrug,Saker Falcon,Würgfalke,Ausnahmeerscheinung,0,Als Brutvogel in Deutschland ausgestorben
+Psittaciformes,Psittaculidae,Old World Parrots,Psittacula krameri,Rose-ringed Parakeet,Halsbandsittich,"eingeführter Brut-, Jahresvogel",,
+Passeriformes,Vireonidae,"Shrike-babblers, Erpornis, and Vireos",Vireo olivaceus,Red-eyed Vireo,Rotaugenvireo,besondere Ausnahmeerscheinung,,
+Passeriformes,Vireonidae,"Shrike-babblers, Erpornis, and Vireos",Vireo flavifrons,Yellow-throated Vireo,Gelbkehlvireo,besondere Ausnahmeerscheinung,,
+Passeriformes,Oriolidae,Old World Orioles,Oriolus oriolus,Eurasian Golden Oriole,Pirol,"Brut-, Zugvogel",V,Vorwarnliste
+Passeriformes,Laniidae,Shrikes,Lanius excubitor,Great Grey Shrike,Raubwürger,"Brut-, Jahres-, Zugvogel, Wintergast",1,Vom Aussterben bedroht
+Passeriformes,Laniidae,Shrikes,Lanius nubicus,Masked Shrike,Maskenwürger,besondere Ausnahmeerscheinung,,
+Passeriformes,Laniidae,Shrikes,Lanius minor,Lesser Grey Shrike,Schwarzstirnwürger,Ausnahmeerscheinung,0,Als Brutvogel in Deutschland ausgestorben
+Passeriformes,Laniidae,Shrikes,Lanius senator,Woodchat Shrike,Rotkopfwürger,seltener Zugvogel,1,Vom Aussterben bedroht
+Passeriformes,Laniidae,Shrikes,Lanius isabellinus,Isabelline Shrike,Isabellwürger,Ausnahmeerscheinung,,
+Passeriformes,Laniidae,Shrikes,Lanius collurio,Red-backed Shrike,Neuntöter,"Brut-, Zugvogel",,
+Passeriformes,Laniidae,Shrikes,Lanius phoenicuroides,Red-tailed Shrike,Rotschwanzwürger,besondere Ausnahmeerscheinung,,
+Passeriformes,Laniidae,Shrikes,Lanius cristatus,Brown Shrike,Braunwürger,besondere Ausnahmeerscheinung,,
+Passeriformes,Corvidae,"Crows, Jays, and Magpies",Pyrrhocorax graculus,Alpine Chough,Alpendohle,"Brut-, Jahresvogel",R,Extrem selten (geografische Restriktion)
+Passeriformes,Corvidae,"Crows, Jays, and Magpies",Pyrrhocorax pyrrhocorax,Red-billed Chough,Alpenkrähe,,,
+Passeriformes,Corvidae,"Crows, Jays, and Magpies",Garrulus glandarius,Eurasian Jay,Eichelhäher,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Corvidae,"Crows, Jays, and Magpies",Pica pica,Eurasian Magpie,Elster,"Brut-, Jahresvogel",,
+Passeriformes,Corvidae,"Crows, Jays, and Magpies",Nucifraga caryocatactes,Northern Nutcracker,Tannenhäher,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Corvidae,"Crows, Jays, and Magpies",Coloeus monedula,Western Jackdaw,Dohle,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Corvidae,"Crows, Jays, and Magpies",Corvus frugilegus,Rook,Saatkrähe,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Corvidae,"Crows, Jays, and Magpies",Corvus corone,Carrion Crow,Rabenkrähe,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Remizidae,Penduline Tits,Remiz pendulinus,Eurasian Penduline Tit,Beutelmeise,"Brut-, Zugvogel",1,Vom Aussterben bedroht
+Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Cyanistes cyanus,Azure Tit,Lasurmeise,besondere Ausnahmeerscheinung,,
+Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Cyanistes caeruleus,Eurasian Blue Tit,Blaumeise,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Parus major,Great Tit,Kohlmeise,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Periparus ater,Coal Tit,Tannenmeise,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Lophophanes cristatus,Crested Tit,Haubenmeise,"Brut-, Jahresvogel",,
+Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Poecile palustris,Marsh Tit,Sumpfmeise,"Brut-, Jahresvogel",,
+Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Poecile montanus,Willow Tit,Weidenmeise,"Brut-, Jahresvogel",,
+Passeriformes,Panuridae,Reedling,Panurus biarmicus,Bearded Reedling,Bartmeise,"Brut-, Jahres-, Zugvogel",,
+Passeriformes,Alaudidae,Larks,Lullula arborea,Woodlark,Heidelerche,"Brut-, Zugvogel",V,Vorwarnliste
+Passeriformes,Alaudidae,Larks,Alauda leucoptera,White-winged Lark,Weißflügellerche,,,
+Passeriformes,Alaudidae,Larks,Alauda arvensis,Eurasian Skylark,Feldlerche,"Brut-, Jahres-, Zugvogel, Wintergast",3,Gefährdet
+Passeriformes,Alaudidae,Larks,Galerida cristata,Crested Lark,Haubenlerche,"Brut-, Jahresvogel",1,Vom Aussterben bedroht
+Passeriformes,Alaudidae,Larks,Eremophila alpestris,Horned Lark,Ohrenlerche,"Zugvogel, Wintergast",,
+Passeriformes,Alaudidae,Larks,Calandrella brachydactyla,Greater Short-toed Lark,Kurzzehenlerche,Ausnahmeerscheinung,,
+Passeriformes,Alaudidae,Larks,Melanocorypha bimaculata,Bimaculated Lark,Bergkalanderlerche,besondere Ausnahmeerscheinung,,
+Passeriformes,Alaudidae,Larks,Melanocorypha yeltoniensis,Black Lark,Schwarzsteppenlerche,besondere Ausnahmeerscheinung,,
+Passeriformes,Alaudidae,Larks,Melanocorypha calandra,Calandra Lark,Kalanderlerche,Ausnahmeerscheinung,,
+Passeriformes,Alaudidae,Larks,Alaudala rufescens,Mediterranean Short-toed Lark,Stummellerche,,,
+Passeriformes,Cisticolidae,Cisticolas and Allies,Cisticola juncidis,Zitting Cisticola,Zistensänger,Ausnahmeerscheinung,,
+Passeriformes,Acrocephalidae,Reed Warblers and Allies,Hippolais icterina,Icterine Warbler,Gelbspötter,"Brut-, Zugvogel",,
+Passeriformes,Acrocephalidae,Reed Warblers and Allies,Hippolais polyglotta,Melodious Warbler,Orpheusspötter,"Brut-, Zugvogel",,
+Passeriformes,Acrocephalidae,Reed Warblers and Allies,Iduna caligata,Booted Warbler,Buschspötter,besondere Ausnahmeerscheinung,,
+Passeriformes,Acrocephalidae,Reed Warblers and Allies,Iduna rama,Sykes's Warbler,Steppenspötter,besondere Ausnahmeerscheinung,,
+Passeriformes,Acrocephalidae,Reed Warblers and Allies,Iduna pallida,Eastern Olivaceous Warbler,Blassspötter,besondere Ausnahmeerscheinung,,
+Passeriformes,Acrocephalidae,Reed Warblers and Allies,Acrocephalus schoenobaenus,Sedge Warbler,Schilfrohrsänger,"Brut-, Zugvogel",,
+Passeriformes,Acrocephalidae,Reed Warblers and Allies,Acrocephalus paludicola,Aquatic Warbler,Seggenrohrsänger,"seltener, lokaler Brutvogel; seltener Zugvogel",1,Vom Aussterben bedroht
+Passeriformes,Acrocephalidae,Reed Warblers and Allies,Acrocephalus melanopogon,Moustached Warbler,Mariskenrohrsänger,Ausnahmeerscheinung,,
+Passeriformes,Acrocephalidae,Reed Warblers and Allies,Acrocephalus agricola,Paddyfield Warbler,Feldrohrsänger,Ausnahmeerscheinung,,
+Passeriformes,Acrocephalidae,Reed Warblers and Allies,Acrocephalus dumetorum,Blyth's Reed Warbler,Buschrohrsänger,Ausnahmeerscheinung,,
+Passeriformes,Acrocephalidae,Reed Warblers and Allies,Acrocephalus palustris,Marsh Warbler,Sumpfrohrsänger,"Brut-, Zugvogel",,
+Passeriformes,Acrocephalidae,Reed Warblers and Allies,Acrocephalus scirpaceus,Common Reed Warbler,Teichrohrsänger,"Brut-, Zugvogel",,
+Passeriformes,Acrocephalidae,Reed Warblers and Allies,Acrocephalus arundinaceus,Great Reed Warbler,Drosselrohrsänger,"Brut-, Zugvogel",,
+Passeriformes,Locustellidae,"Grasshopper Warblers, Grassbirds, and Allies",Helopsaltes certhiola,Pallas's Grasshopper Warbler,Streifenschwirl,,,
+Passeriformes,Locustellidae,"Grasshopper Warblers, Grassbirds, and Allies",Locustella lanceolata,Lanceolated Warbler,Strichelschwirl,besondere Ausnahmeerscheinung,,
+Passeriformes,Locustellidae,"Grasshopper Warblers, Grassbirds, and Allies",Locustella fluviatilis,River Warbler,Schlagschwirl,"Brut-, Zugvogel",,
+Passeriformes,Locustellidae,"Grasshopper Warblers, Grassbirds, and Allies",Locustella luscinioides,Savi's Warbler,Rohrschwirl,"Brut-, Zugvogel",,
+Passeriformes,Locustellidae,"Grasshopper Warblers, Grassbirds, and Allies",Locustella naevia,Common Grasshopper Warbler,Feldschwirl,"Brut-, Zugvogel",2,Stark gefährdet
+Passeriformes,Hirundinidae,Swallows,Riparia riparia,Sand Martin,Uferschwalbe,"Brut-, Zugvogel",,
+Passeriformes,Hirundinidae,Swallows,Ptyonoprogne rupestris,Eurasian Crag Martin,Felsenschwalbe,"Brut-, Zugvogel",,
+Passeriformes,Hirundinidae,Swallows,Hirundo rustica,Barn Swallow,Rauchschwalbe,"Brut-, Zugvogel",V,Vorwarnliste
+Passeriformes,Hirundinidae,Swallows,Delichon urbicum,Western House Martin,Mehlschwalbe,"Brut-, Zugvogel",3,Gefährdet
+Passeriformes,Hirundinidae,Swallows,Cecropis daurica,Eastern Red-rumped Swallow,Rötelschwalbe,Ausnahmeerscheinung,,
+Passeriformes,Aegithalidae,"Tit-warblers, Bushtits, and Long-tailed Tit",Aegithalos caudatus,Long-tailed Tit,Schwanzmeise,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Cettiidae,Bush Warblers and Allies,Cettia cetti,Cetti's Warbler,Seidensänger,Ausnahmeerscheinung,,
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus sibilatrix,Wood Warbler,Waldlaubsänger,"Brut-, Zugvogel",,
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus bonelli,Western Bonelli's Warbler,Berglaubsänger,"Brut-, Zugvogel",,
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus inornatus,Yellow-browed Warbler,Gelbbrauen-Laubsänger,seltener Zugvogel,,
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus humei,Hume's Leaf Warbler,Tienschan-Laubsänger,Ausnahmeerscheinung,,
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus proregulus,Pallas's Leaf Warbler,Goldhähnchen-Laubsänger,Ausnahmeerscheinung,,
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus schwarzi,Radde's Warbler,Bartlaubsänger,Ausnahmeerscheinung,,
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus fuscatus,Dusky Warbler,Dunkellaubsänger,Ausnahmeerscheinung,,
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus trochilus,Willow Warbler,Fitis,"Brut-, Zugvogel",,
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus ibericus,Iberian Chiffchaff,Iberienzilpzalp,Ausnahmeerscheinung,,
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus collybita,Common Chiffchaff,Zilpzalp,"Brut-, Zugvogel",,
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus coronatus,Eastern Crowned Warbler,Kronenlaubsänger,besondere Ausnahmeerscheinung,,
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus nitidus,Green Warbler,Wacholderlaubsänger,besondere Ausnahmeerscheinung,,
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus plumbeitarsus,Two-barred Warbler,Middendorff-Laubsänger,besondere Ausnahmeerscheinung,,
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus trochiloides,Greenish Warbler,Grünlaubsänger,"seltener, lokaler Brutvogel; seltener Zugvogel",R,Extrem selten (geografische Restriktion)
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus borealis,Arctic Warbler,Wanderlaubsänger,Ausnahmeerscheinung,,
+Passeriformes,Sylviidae,Sylviid Warblers and Allies,Sylvia borin,Garden Warbler,Gartengrasmücke,"Brut-, Zugvogel",,
+Passeriformes,Sylviidae,Sylviid Warblers and Allies,Sylvia atricapilla,Eurasian Blackcap,Mönchsgrasmücke,"Brut-, Zugvogel",,
+Passeriformes,Regulidae,Kinglets,Regulus ignicapilla,Common Firecrest,Sommergoldhähnchen,"Brut-, Zugvogel",,
+Passeriformes,Regulidae,Kinglets,Regulus regulus,Goldcrest,Wintergoldhähnchen,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Tichodromidae,Wallcreeper,Tichodroma muraria,Wallcreeper,Mauerläufer,"Brut-, Jahresvogel",R,Extrem selten (geografische Restriktion)
+Passeriformes,Certhiidae,Treecreepers,Certhia familiaris,Eurasian Treecreeper,Waldbaumläufer,"Brut-, Jahresvogel",,
+Passeriformes,Certhiidae,Treecreepers,Certhia brachydactyla,Short-toed Treecreeper,Gartenbaumläufer,"Brut-, Jahresvogel",,
+Passeriformes,Troglodytidae,Wrens,Troglodytes troglodytes,Eurasian Wren,Zaunkönig,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Mimidae,Mockingbirds and Thrashers,Dumetella carolinensis,Grey Catbird,Katzenvogel,,,
+Passeriformes,Sturnidae,"Rhabdornis, Starlings, and Mynas",Pastor roseus,Rosy Starling,Rosenstar,Ausnahmeerscheinung,,
+Passeriformes,Cinclidae,Dippers,Cinclus cinclus,White-throated Dipper,Wasseramsel,"Brut-, Jahresvogel, Wintergast",,
+Passeriformes,Turdidae,Thrushes and Allies,Zoothera aurea,White's Thrush,Erddrossel,Ausnahmeerscheinung,,
+Passeriformes,Turdidae,Thrushes and Allies,Catharus ustulatus,Swainson's Thrush,Zwergmusendrossel,besondere Ausnahmeerscheinung,,
+Passeriformes,Turdidae,Thrushes and Allies,Catharus minimus,Grey-cheeked Thrush,Grauwangen-Musendrossel,,,
+Passeriformes,Turdidae,Thrushes and Allies,Catharus guttatus,Hermit Thrush,Einsiedler-Musendrossel,,,
+Passeriformes,Turdidae,Thrushes and Allies,Geokichla sibirica,Siberian Thrush,Schieferdrossel,besondere Ausnahmeerscheinung,,
+Passeriformes,Turdidae,Thrushes and Allies,Turdus viscivorus,Mistle Thrush,Misteldrossel,"Brut-, Jahres-, Zugvogel",,
+Passeriformes,Turdidae,Thrushes and Allies,Turdus philomelos,Song Thrush,Singdrossel,"Brut-, Zugvogel",,
+Passeriformes,Turdidae,Thrushes and Allies,Turdus iliacus,Redwing,Rotdrossel,"Zugvogel, Wintergast",,
+Passeriformes,Turdidae,Thrushes and Allies,Turdus merula,Common Blackbird,Amsel,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Turdidae,Thrushes and Allies,Turdus pilaris,Fieldfare,Wacholderdrossel,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Turdidae,Thrushes and Allies,Turdus torquatus,Ring Ouzel,Ringdrossel,"Brut-, Zugvogel",,
+Passeriformes,Turdidae,Thrushes and Allies,Turdus ruficollis,Red-throated Thrush,Rotkehldrossel,besondere Ausnahmeerscheinung,,
+Passeriformes,Turdidae,Thrushes and Allies,Turdus atrogularis,Black-throated Thrush,Schwarzkehldrossel,Ausnahmeerscheinung,,
+Passeriformes,Turdidae,Thrushes and Allies,Turdus naumanni,Naumann's Thrush,Rostschwanzdrossel,besondere Ausnahmeerscheinung,,
+Passeriformes,Turdidae,Thrushes and Allies,Turdus eunomus,Dusky Thrush,Rostflügeldrossel,besondere Ausnahmeerscheinung,,
+Passeriformes,Turdidae,Thrushes and Allies,Turdus unicolor,Tickell's Thrush,Einfarbdrossel,,,
+Passeriformes,Turdidae,Thrushes and Allies,Turdus obscurus,Eyebrowed Thrush,Weißbrauendrossel,Ausnahmeerscheinung,,
+Passeriformes,Turdidae,Thrushes and Allies,Turdus migratorius,American Robin,Wanderdrossel,besondere Ausnahmeerscheinung,,
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Cercotrichas galactotes,Rufous-tailed Scrub Robin,Heckensänger,Ausnahmeerscheinung,,
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Muscicapa striata,Spotted Flycatcher,Grauschnäpper,"Brut-, Zugvogel",V,Vorwarnliste
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Erithacus rubecula,European Robin,Rotkehlchen,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Luscinia luscinia,Thrush Nightingale,Sprosser,"Brut-, Zugvogel",V,Vorwarnliste
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Luscinia megarhynchos,Common Nightingale,Nachtigall,"Brut-, Zugvogel",,
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Luscinia svecica,Bluethroat,Blaukehlchen,"Brut-, Zugvogel",,
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Calliope calliope,Siberian Rubythroat,Rubinkehlchen,besondere Ausnahmeerscheinung,,
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Ficedula parva,Red-breasted Flycatcher,Zwergschnäpper,"Brut-, Zugvogel",V,Vorwarnliste
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Ficedula albicollis,Collared Flycatcher,Halsbandschnäpper,"Brut-, Zugvogel",3,Gefährdet
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Ficedula hypoleuca,European Pied Flycatcher,Trauerschnäpper,"Brut-, Zugvogel",3,Gefährdet
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Tarsiger cyanurus,Red-flanked Bluetail,Blauschwanz,Ausnahmeerscheinung,,
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Phoenicurus ochruros,Black Redstart,Hausrotschwanz,"Brut-, Zugvogel",,
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Phoenicurus phoenicurus,Common Redstart,Gartenrotschwanz,"Brut-, Zugvogel",,
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Monticola saxatilis,Common Rock Thrush,Steinrötel,"seltener, lokaler Brutvogel; Ausnahmeerscheinung",1,Vom Aussterben bedroht
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Monticola solitarius,Blue Rock Thrush,Blaumerle,besondere Ausnahmeerscheinung,,
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Saxicola maurus,Siberian Stonechat,Pallasschwarzkehlchen,Ausnahmeerscheinung,,
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Saxicola rubicola,European Stonechat,Schwarzkehlchen,"Brut-, Zugvogel",,
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Oenanthe deserti,Desert Wheatear,Wüstensteinschmätzer,Ausnahmeerscheinung,,
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Oenanthe hispanica,Western Black-eared Wheatear,Mittelmeer-Steinschmätzer,Ausnahmeerscheinung,,
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Oenanthe pleschanka,Pied Wheatear,Nonnensteinschmätzer,Ausnahmeerscheinung,,
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Oenanthe cypriaca,Cyprus Wheatear,Zypernsteinschmätzer,,,
+Passeriformes,Muscicapidae,"Chats, Old World Flycatchers, and Allies",Oenanthe isabellina,Isabelline Wheatear,Isabellsteinschmätzer,Ausnahmeerscheinung,,
+Passeriformes,Prunellidae,Accentors,Prunella collaris,Alpine Accentor,Alpenbraunelle,"Brut-, Jahres-, Zugvogel",R,Extrem selten (geografische Restriktion)
+Passeriformes,Prunellidae,Accentors,Prunella atrogularis,Black-throated Accentor,Schwarzkehlbraunelle,besondere Ausnahmeerscheinung,,
+Passeriformes,Prunellidae,Accentors,Prunella montanella,Siberian Accentor,Bergbraunelle,besondere Ausnahmeerscheinung,,
+Passeriformes,Passeridae,Snowfinches and Old World Sparrows,Petronia petronia,Rock Sparrow,Steinsperling,,0,Als Brutvogel in Deutschland ausgestorben
+Passeriformes,Passeridae,Snowfinches and Old World Sparrows,Montifringilla nivalis,White-winged Snowfinch,Schneesperling,"Brut-, Jahresvogel",R,Extrem selten (geografische Restriktion)
+Passeriformes,Motacillidae,Wagtails and Pipits,Motacilla cinerea,Grey Wagtail,Gebirgsstelze,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Motacillidae,Wagtails and Pipits,Motacilla flava,Western Yellow Wagtail,Schafstelze,"Brut-, Zugvogel",,
+Passeriformes,Motacillidae,Wagtails and Pipits,Motacilla citreola,Citrine Wagtail,Zitronenstelze,Ausnahmeerscheinung,,
+Passeriformes,Motacillidae,Wagtails and Pipits,Anthus godlewskii,Blyth's Pipit,Steppenpieper,Ausnahmeerscheinung,,
+Passeriformes,Motacillidae,Wagtails and Pipits,Anthus campestris,Tawny Pipit,Brachpieper,"Brut-, Zugvogel",1,Vom Aussterben bedroht
+Passeriformes,Motacillidae,Wagtails and Pipits,Anthus richardi,Richard's Pipit,Spornpieper,seltener Zugvogel,,
+Passeriformes,Motacillidae,Wagtails and Pipits,Anthus gustavi,Pechora Pipit,Petschorapieper,besondere Ausnahmeerscheinung,,
+Passeriformes,Motacillidae,Wagtails and Pipits,Anthus trivialis,Tree Pipit,Baumpieper,"Brut-, Zugvogel",V,Vorwarnliste
+Passeriformes,Motacillidae,Wagtails and Pipits,Anthus hodgsoni,Olive-backed Pipit,Waldpieper,Ausnahmeerscheinung,,
+Passeriformes,Motacillidae,Wagtails and Pipits,Anthus cervinus,Red-throated Pipit,Rotkehlpieper,Zugvogel,,
+Passeriformes,Motacillidae,Wagtails and Pipits,Anthus rubescens,American Pipit,Pazifikpieper,besondere Ausnahmeerscheinung,,
+Passeriformes,Motacillidae,Wagtails and Pipits,Anthus pratensis,Meadow Pipit,Wiesenpieper,"Brut, Zugvogel, Wintergast",2,Stark gefährdet
+Passeriformes,Motacillidae,Wagtails and Pipits,Anthus petrosus,European Rock Pipit,Strandpieper,"Zugvogel, Wintergast",,
+Passeriformes,Motacillidae,Wagtails and Pipits,Anthus spinoletta,Water Pipit,Bergpieper,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Fringilla montifringilla,Brambling,Bergfink,"Zugvogel, Wintergast",,
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Fringilla coelebs,Eurasian Chaffinch,Buchfink,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Coccothraustes coccothraustes,Hawfinch,Kernbeißer,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Pinicola enucleator,Pine Grosbeak,Hakengimpel,Ausnahmeerscheinung,,
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Bucanetes githagineus,Trumpeter Finch,Wüstengimpel,besondere Ausnahmeerscheinung,,
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Chloris chloris,European Greenfinch,Grünfink,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Linaria flavirostris,Twite,Berghänfling,Wintergast,,
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Linaria cannabina,Common Linnet,Bluthänfling,"Brut-, Jahres-, Zugvogel, Wintergast",3,Gefährdet
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Loxia leucoptera,Two-barred Crossbill,Bindenkreuzschnabel,Ausnahmeerscheinung,,
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Loxia pytyopsittacus,Parrot Crossbill,Kiefernkreuzschnabel,Ausnahmeerscheinung,,
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Loxia curvirostra,Red Crossbill,Fichtenkreuzschnabel,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Carduelis citrinella,Citril Finch,Zitronenzeisig,"Brut-, Jahresvogel",3,Gefährdet
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Carduelis carduelis,European Goldfinch,Stieglitz,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Serinus serinus,European Serin,Girlitz,"Brut-, Zugvogel",,
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Spinus spinus,Eurasian Siskin,Erlenzeisig,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Calcariidae,Longspurs and Snow Buntings,Plectrophenax nivalis,Snow Bunting,Schneeammer,"Zugvogel, Wintergast",,
+Passeriformes,Calcariidae,Longspurs and Snow Buntings,Calcarius lapponicus,Lapland Longspur,Spornammer,"Zugvogel, Wintergast",,
+Passeriformes,Emberizidae,Old World Buntings,Emberiza schoeniclus,Common Reed Bunting,Rohrammer,"Brut-, Zugvogel, Wintergast",,
+Passeriformes,Emberizidae,Old World Buntings,Emberiza aureola,Yellow-breasted Bunting,Weidenammer,Ausnahmeerscheinung,,
+Passeriformes,Emberizidae,Old World Buntings,Emberiza pusilla,Little Bunting,Zwergammer,Ausnahmeerscheinung,,
+Passeriformes,Emberizidae,Old World Buntings,Emberiza rustica,Rustic Bunting,Waldammer,Ausnahmeerscheinung,,
+Passeriformes,Emberizidae,Old World Buntings,Emberiza spodocephala,Black-faced Bunting,Maskenammer,besondere Ausnahmeerscheinung,,
+Passeriformes,Emberizidae,Old World Buntings,Emberiza melanocephala,Black-headed Bunting,Kappenammer,Ausnahmeerscheinung,,
+Passeriformes,Emberizidae,Old World Buntings,Emberiza bruniceps,Red-headed Bunting,Braunkopfammer,Ausnahmeerscheinung,,
+Passeriformes,Emberizidae,Old World Buntings,Emberiza calandra,Corn Bunting,Grauammer,"Brut-, Jahres-, Zugvogel, Wintergast",V,Vorwarnliste
+Passeriformes,Emberizidae,Old World Buntings,Emberiza cia,Rock Bunting,Zippammer,"Brut-, Jahres-, Zugvogel",1,Vom Aussterben bedroht
+Passeriformes,Emberizidae,Old World Buntings,Emberiza buchanani,Grey-necked Bunting,Steinortolan,besondere Ausnahmeerscheinung,,
+Passeriformes,Emberizidae,Old World Buntings,Emberiza cineracea,Cinereous Bunting,Türkenammer,,,
+Passeriformes,Emberizidae,Old World Buntings,Emberiza hortulana,Ortolan Bunting,Ortolan,"Brut-, Zugvogel",2,Stark gefährdet
+Passeriformes,Emberizidae,Old World Buntings,Emberiza caesia,Cretzschmar's Bunting,Grauortolan,besondere Ausnahmeerscheinung,,
+Passeriformes,Emberizidae,Old World Buntings,Emberiza leucocephalos,Pine Bunting,Fichtenammer,Ausnahmeerscheinung,,
+Passeriformes,Emberizidae,Old World Buntings,Emberiza citrinella,Yellowhammer,Goldammer,"Brut-, Jahres-, Zugvogel, Wintergast",,
+Passeriformes,Parulidae,New World Warblers,Setophaga americana,Northern Parula,Meisenwaldsänger,besondere Ausnahmeerscheinung,,
+Passeriformes,Parulidae,New World Warblers,Setophaga virens,Black-throated Green Warbler,Grünmantel-Waldsänger,,,
