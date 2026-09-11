@@ -1,4 +1,4 @@
-Order,Family,Family_English_name,Scientific_name,English_name_AviList,German_name,Status,Rl-status,Rl-status-description
+taxon_order,taxon_family,family_common_name,scientific_name,english_name,german_name,status,rl_status,rl_status_description
 Anseriformes,Anatidae,"Ducks, Swans, and Geese",Oxyura leucocephala,White-headed Duck,Weißkopf-Ruderente,Ausnahmeerscheinung,,
 Anseriformes,Anatidae,"Ducks, Swans, and Geese",Oxyura jamaicensis,Ruddy Duck,Schwarzkopf-Ruderente,seltener Jahresvogel,,
 Anseriformes,Anatidae,"Ducks, Swans, and Geese",Cygnus olor,Mute Swan,Höckerschwan,"Brut-, Jahres-, Zugvogel, Wintergast",,

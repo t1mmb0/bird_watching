@@ -220,3 +220,13 @@ __marimo__/
 
 # csv
 data/raw_data/
+
+# test_datein
+test.ipynb
+
+
+# db
+.db
+.db-journal
+.db-wal
+.db-shm

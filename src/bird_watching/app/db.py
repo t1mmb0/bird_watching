@@ -1,21 +1,13 @@
 import sqlite3
-
 from pathlib import Path
+import pandas as pd
+from bird_watching.app.script_loader import load_sql
+from bird_watching.app.paths import DIR_SCRIPTS
 
-_BASE_DIR = Path(__file__).parent.parent
-_SCHEMA_DIR = _BASE_DIR / "schemas"
+# --- BUILDING TABLES / CONNECTION ---
 
-# --- LOAD SCHEMA ---
-def load_sql_schema(file_name: str):
-    with open(_SCHEMA_DIR / file_name, "r", encoding="utf-8") as file:
-        return file.read()
-
-SCHEMA_SIGHTINGS = load_sql_schema("sightings.sql")
-SCHEMA_BIRDS = load_sql_schema("birds.sql")
-
-
-def create_connection(db_name: str = "birds.db") -> sqlite3.Connection:
-    connection = sqlite3.connect(db_name)
+def create_connection(db_path: Path) -> sqlite3.Connection:
+    connection = sqlite3.connect(db_path)
     connection.row_factory = sqlite3.Row
     connection.execute("PRAGMA foreign_keys = ON")
 
@@ -28,6 +20,8 @@ def create_table(connection: sqlite3.Connection, schema: str)-> None:
     
     cursor = connection.cursor()
     cursor.executescript(schema)
+
+# --- INTROSPECTION ---
 
 
 def describe_table(connection: sqlite3.Connection, t: str = "birds")-> dict:
@@ -52,26 +46,20 @@ def describe_table(connection: sqlite3.Connection, t: str = "birds")-> dict:
     "indexes": indexes,
 }
 
+# --- TABLE INSERTION ---
 
-def table_add_row(connection: sqlite3.Connection, data: dict, table_name: str = "birds"):
+
+def bulk_insert(connection: sqlite3.Connection, data: pd.DataFrame, script_name="insert_bird.sql")-> int:
     if connection is None:
-        raise ValueError("A valid database connection must be provided.")   
-    try:
-        cursor = connection.cursor()
-        columns = ", ".join(data.keys())
-        placeholders = ", ".join(["?" for _ in data])
-        command = f"INSERT INTO {table_name} ({columns}) VALUES ({placeholders})"
-        cursor.execute(command, tuple(data.values()))
-        connection.commit()
-    except Exception as e:
-        print(f"Error occurred: {e}")
-        return "Error occurred while adding row."
+        raise ValueError("A valid database connection must be provided.")
+    records = data.to_dict(orient="records")
+    sql_script = load_sql(DIR_SCRIPTS / script_name)
+    with connection: 
+        cur = connection.executemany(sql_script, records)
+
+    return cur.rowcount
 
 
-if __name__ == "__main__":
-    connection = create_connection()
-    create_table(connection, SCHEMA_BIRDS)
-    create_table(connection, SCHEMA_SIGHTINGS)
 
 
 
