@@ -1,50 +1,57 @@
 import sqlite3
 
-_SCHEMA = {
-    "bird_id": "INTEGER PRIMARY KEY",
-    "german_name": "TEXT",
-    "english_name": "TEXT",
-    "taxon_rank": "TEXT",
-    "taxon_order": "TEXT",
-    "taxon_family": "TEXT",
-    "family_common_name": "TEXT",
-    "scientific_name": "TEXT",
-    "status": "TEXT",
-    "rl_status": "TEXT",
-}
+from pathlib import Path
 
-def create_connection(db_name: str = ":memory:") -> sqlite3.Connection:
+_BASE_DIR = Path(__file__).parent
+_SCHEMA_DIR = _BASE_DIR / "schemas"
+
+# --- LOAD SCHEMA ---
+def load_sql_schema(file_name: str):
+    with open(_SCHEMA_DIR / file_name, "r", encoding="utf-8") as file:
+        return file.read()
+
+SCHEMA_SIGHTINGS = load_sql_schema("sightings.sql")
+SCHEMA_BIRDS = load_sql_schema("birds.sql")
+
+
+def create_connection(db_name: str = "birds.db") -> sqlite3.Connection:
     connection = sqlite3.connect(db_name)
+    connection.row_factory = sqlite3.Row
+    connection.execute("PRAGMA foreign_keys = ON")
+
     return connection
 
 def close_connection(connection):
     connection.close()
 
-def create_table(database_schema: dict, db_name: str = ":memory:", table_name: str = "birds")-> str:
-    try:
-        connection = create_connection(db_name)
-        cursor = connection.cursor()
-        command_base = f"CREATE TABLE {table_name} ("
-        command =  command_base + ", ".join([f"{column} {data_type}" for column, data_type in database_schema.items()]) + ");"
-        cursor.execute(command)
-        table_column_info(connection, table_name)
-        close_connection(connection)
-    except Exception as e:
-        print(f"Error occurred: {e}")
-        return "Error occurred while creating table."
-    return "Table created successfully."
-
-def table_column_info(connection: sqlite3.Connection, table_name: str = "birds")-> list:
-
+def create_table(connection: sqlite3.Connection, schema: str)-> None:
+    
     cursor = connection.cursor()
-    command = f"PRAGMA table_info({table_name})"
-    cursor.execute(command)
-    column_info = []
-    for row in cursor:
-        print(f"Column: {row[1]}, Type: {row[2]}, Not Null: {row[3]}, Default Value: {row[4]}, Primary Key: {row[5]}")
-        column_info.append(row)
+    cursor.executescript(schema)
 
-    return column_info
+
+def describe_table(connection: sqlite3.Connection, t: str = "birds")-> dict:
+    cursor = connection.cursor()
+
+    ddl = cursor.execute("SELECT sql FROM sqlite_master WHERE type='table' AND name=?", (t,)).fetchone()
+    columns = [dict(r) for r in cursor.execute(f"PRAGMA table_info({t})")]
+    fks = [dict(r) for r in cursor.execute(f"PRAGMA foreign_key_list({t})")]
+
+    indexes = []
+    rows = cursor.execute(f"PRAGMA index_list({t})").fetchall()
+    for r in rows:
+        idx = dict(r)
+        idx["columns"] = [c["name"] for c in cursor.execute(f"PRAGMA index_info({idx['name']})")]
+        indexes.append(idx)
+
+    return {
+    "name": t,
+    "ddl": ddl["sql"] if ddl else None,
+    "columns": columns,
+    "foreign_keys": fks,
+    "indexes": indexes,
+}
+
 
 def table_add_row(connection: sqlite3.Connection, data: dict, table_name: str = "birds"):
     if connection is None:
@@ -62,7 +69,9 @@ def table_add_row(connection: sqlite3.Connection, data: dict, table_name: str = 
 
 
 if __name__ == "__main__":
-    create_table(_SCHEMA)
+    connection = create_connection()
+    create_table(connection, SCHEMA_BIRDS)
+    create_table(connection, SCHEMA_SIGHTINGS)
 
 
 

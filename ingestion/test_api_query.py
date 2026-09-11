@@ -1,6 +1,6 @@
 import pytest
 from requests import HTTPError
-from api_query import get_wikitext, _API
+from ingestion.api_query import get_wikitext, _API
 
 @pytest.mark.parametrize("mock_json, expected",[
     ({"parse": {"wikitext": "txt"}}, "txt"),
